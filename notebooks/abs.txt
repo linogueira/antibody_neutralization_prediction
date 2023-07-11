@@ -1,0 +1,731 @@
+Name	Binding Type	Structure	Ab patient	Clonal lineage	Isolation paper(Pubmed ID)	Neutralizing antibody feature	Light chain type	# of viruses tested	ADCC	Mean panel IC50	SD panel IC50	Alias	LANL comments
+0.5γ	gp120 V3 // V3 glycan (V3g)		KTS376		Yoshimura2010(20504942) 	Mutations coupling nAb resistance with ceniciviroc sensitivity	K	43	Yes	26.7127	10.3021	0.5gamma, 1C10	
+10-1074	gp120 V3 // V3 glycan (V3g)	4FQ2(10-1074 Fab);EMD-20100(B41 SOSIP.664 in complex with SF12 and 10-1074);EMD-20101(B41 SOSIP.664 trimer in complex with 2 Fab fragments of SF12 and 1 Fab fragment of 10-1074);5T3X(Natively Glycosylated BG505 SOSIP.664 in Complex with IOMA and 10-1074);5T3Z(Natively Glycosylated BG505 SOSIP.664 in Complex with IOMA and 10-1074);6OKP(SOSIP.664 in complex with SF12 and 10-1074)	Donor 17	PGT121	Mouquet2012a(23115339) 	10-1074 contacts;10-1074 neutralization;10-1074 signature predictions;hypervariable loop characteristic correlations with bNAb sensitivity;Key sites for PGT121-like and 10-1074-like mAbs;V3 Signature Analysis Summary	L	950	Yes	0.72502	61.5781	10.1074	
+10-1074GM	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 			26		1.70613	13.0582		
+10-1074-IgG3C-	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Bournazos2016(27315478) 			119		1.33043	48.2715		IgG3C hinge variant
+10-1074V	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121		hypervariable loop characteristic correlations with bNAb sensitivity;V3 Signature Analysis Summary		201		0.44827	76.4079		
+10-1121	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-1130	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-1146	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-1341	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-1369	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-259	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-303	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-410	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-847	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 		L	10					
+10-996	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 	10-996 signature predictions;Key sites for PGT121-like and 10-1074-like mAbs;V3 Signature Analysis Summary	L	121		1.64005	44.6236		
+10A3	gp120 V3 // V3 glycan (V3g)		uncoded_rabbit		Qin2015(26039641) 			22		14.4323	20.4026		rabbit antibody
+10A37	gp120 V3 // V3 glycan (V3g)		uncoded_rabbit		Qin2015(26039641) 			22		6.98787	20.2343		rabbit antibody
+10E8	gp41 MPER (membrane proximal external region)	4U6G(10E8 Fab in complex with a hydrocarbon-stapled HIV-1 gp41 MPER peptide);5T6L(10E8 Fab in complex with the MPER epitope scaffold T117v2);5T80(10E8 Fab in complex with the MPER epitope scaffold T117v2 and phosphatidic acid);5T85(10E8 Fab in complex with the MPER epitope scaffold T117v2 and phosphatidylglycerol);5SY8(10E8 Fab light chain mutant1 and T117v2 HIV-1 MPER scaffold);5TFW(10E8 Fab light chain mutant2 against the MPER region of the HIV-1 Env, in complex with T117v2 epitope scaffold);5T29(10E8 Fab light chain mutant3, against the MPER region of the HIV-1 Env, in complex with the MPER epitope scaffold T117v2);5T5B(10E8 FAB LIGHT CHAIN MUTANT5 AND T117V2 HIV-1 MPER SCAFFOLD);5IQ7(10E8-S74W Fab in complex with an HIV-1 gp41 peptide);5IQ9(10E8v4 Fab in complex with an HIV-1 gp41 peptide);5GHW(10E8 with long epitope bound);4G6F(Fab 10E8 complexed with gp41 peptide)	Donor N152	10E8	Huang2012a(23151583) 	10E8 contacts;10E8 residue prediction;10E8 signature predictions;hypervariable loop characteristic correlations with bNAb sensitivity;Mutations affect neutralization by 10E8;Q563R affects binding and neutralization of MPER mAbs;Signature Analysis Summary	L	727	Yes	0.50693	6.4056		
+10E8-0fH/0fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		3.87858	5.20716		
+10E8-0fH/4fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		1.19809	5.99976		
+10E8-10fH/10fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		0.9675	5.65735		
+10E8-10fH/16fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		0.56558	7.15275		
+10E8-10fH/4fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		2.37887	6.84055		
+10E8-19fH/10fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		0.44926	8.98017		
+10E8-19fH/16fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		0.39459	7.48086		
+10E8-2fH/0fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		7.97449	5.97822		
+10E8-2fH/10fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		0.94299	6.20129		
+10E8-2fH/4fL	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Georgiev2014(24391217) 			21		5.13723	5.59785		
+10E8 IgG mutant 1	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Irimia2017(28225819) 			108		0.25918	11.6142		
+10E8 IgG mutant 2	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Irimia2017(28225819) 			108		2.70736	9.48824		
+10E8 IgG mutant 3	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Irimia2017(28225819) 			108		52.1608	2.81275		
+10E8 IgG mutant 4	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Irimia2017(28225819) 			0					
+10E8 IgG mutant 5	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Irimia2017(28225819) 			108		34.2351	4.21781		
+10E8/N6	gp120 CD4bs;gp41 MPER (membrane proximal external region)		Donor N152,Z258		Khan2018(29976677) 			108		0.049453	8.40368	10E8fv-N6fv	bispecific
+10E8/PGDM1400/PRO-140	gp120 V2 // V2 glycan(V2g) // V2 apex;gp41 MPER (membrane proximal external region);non-HIV: host CCR5		Donor 84,Donor N152		Khan2018(29976677) 			105		0.012252	6.91922	10E8Fab-PGDM1400fv-PRO140fv	trispecific
+10E8/PGT121/PGDM1400.V1	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			28		0.52481	21.1939	10E8Fab-PGT121fv-PGDM1400fv.V1	trispecific
+10E8/PGT121/PGDM1400.V2	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			28		1.53708	26.254	10E8Fab-PGT121fv-PGDM1400fv.V2	trispecific
+10E8/PGT121/PGDM1400.V3	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			28		0.20382	20.0096	10E8Fab-PGT121fv-PGDM1400fv.V3	trispecific
+10E8/PGT121/PGDM1400.V4	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			28		1.23307	32.5067	10E8Fab-PGT121fv-PGDM1400fv.V4	trispecific
+10E8/PGT121/PGDM1400.V5	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			28		0.21034	19.1657	10E8Fab-PGT121fv-PGDM1400fv.V5	trispecific
+10E8/PGT121/PGDM1400.V6	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			28		0.63234	24.5142	10E8Fab-PGT121fv-PGDM1400fv.V6	trispecific
+10E8/PGT121/PGDM1400.V7	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			28		0.42434	17.4206	10E8Fab-PGT121fv-PGDM1400fv.V7	trispecific
+10E8/PGT121/PGDM1400.V8	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			114		0.023348	12.7172	10E8Fab-PGT121fv-PGDM1400fv.V8	trispecific
+10E8/PGT121/PGDM1400.V8.4DS	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			9				10E8Fab-PGT121fv-PGDM1400fv.V8.4DS	trispecific
+10E8/PGT121/PGDM1400.V8Fc	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			27		0.18638	13.9596	10E8Fab-PGT121fv-PGDM1400fv.V8Fc	trispecific
+10E8/PGT121/PGDM1400.V8LL	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor 84,Donor N152		Khan2018(29976677) 			12				10E8Fab-PGT121fv-PGDM1400fv.V8LL	trispecific
+10E8v1	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Kwon2016(27053554) 		L	0					
+10E8V1.1/P140	gp41 MPER (membrane proximal external region);non-HIV: host CCR5		Donor N152		Huang2016(27315479) 			118		0.0025529	7.94089		bispecific
+10E8V2.0/iMab	gp41 MPER (membrane proximal external region);non-HIV: host CD4R		Donor N152		Huang2016(27315479) 			154		0.002227	5.6643	10E08-iMab, 10E8-iMAb, 10E8/iMAb	bispecific
+10E8v4	gp41 MPER (membrane proximal external region)	5IQ9(10E8v4 Fab in complex with an HIV-1 gp41 peptide);7MFB(10E8v4 Fab - light chain H31F variant);7MF7(Crystal structure of antibody 10E8v4-P100gA Fab);6X58(MPER-Fluc-Ec2 bound to 10E8v4 antibody)	Donor N152	10E8	Kwon2016(27053554) 		L	208	Yes	0.41058	6.11526		
+10E8v4-5R-100cF	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Kwon2018(29444432) 			208		0.05102	5.58738	10E8v4-5R+100cF 10E8v4-V5R-100cF 10E8v4-V5F-100cF	
+10E8v4-DS	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Kwon2016(27053554) 		L	9					
+10E8v5	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Kwon2016(27053554) 		L	0					
+10J4	gp41-gp41 interface		Donor N152	35O22	Huang2014(25186731) 		L	8					
+10M6	gp41-gp41 interface		Donor N152	35O22	Huang2014(25186731) 		L	8					
+12A12	gp120 CD4bs		Patient 12	12A12	Scheid2011(21764753) 	12A12 signature predictions;hypervariable loop characteristic correlations with bNAb sensitivity;Neutralization of Env 426c and its glycan-deleted mutant by CD4BS Abs;Signature Analysis Summary	K	237	No	0.22603	10.1948	12A12 d57	
+12A21	gp120 CD4bs	4JPW(12a21 in complex with 93th057 gp120 mutant)	Patient 12	12A12	Scheid2011(21764753) 	12A21 alanine scanning;Mutations allowing binding of germline Abs	K	81		2.705	21.3199	12A21 d57	
+12G10	gp120 CD4i		KTS376		Tanaka2017(28938888) 		K	0					
+1357	gp120 V2 // V2 glycan(V2g) // V2 apex		donor_uncoded_1		Nyambi1998(9765494) 			22		55.2765	3.29435	1357-D	
+1361	gp120 V2 // V2 glycan(V2g) // V2 apex		donor_uncoded_1		Nyambi1998(9765494) 			41		58.917	3.3112		
+1393A	gp120 V2 // V2 glycan(V2g) // V2 apex		donor_uncoded_1		Nyambi2000(10888650) 			41		65.0711	2.79537		
+13I10	gp41-gp41 interface		Donor N152	35O22	Huang2014(25186731) 		L	8					
+15e	gp120 CD4bs		N70		Robinson1990c(1694449) 			111	Yes	84.951	1.95986	15E, 1.5e, 1.5E, N70-1.5e	
+16G6	gp120 V3 // V3 glycan (V3g)		KTS376		RamirezValdez2015(25486586) 		L	43	Yes	56.5069	6.15609		
+1-79	gp120 V3 // V3 glycan (V3g)		Patient 1		Scheid2009(19287373) 		K	18					
+179NC75	gp120 CD4bs	7LLK(Q23.17_DS-SOSIP in complex with 179NC75 Fab)	EB179		Freund2015(26516768) 	179NC75 binding-associated sites	L	120		12.6804	32.0116		
+17b	gp120 CD4i CoRbs (Cluster C)	1RZ8(antibody 17b);5A8H(BG505 SOSIP.664 in complex with sCD4, 17b, and 8ANC195);5A7X(BG505 SOSIP.664 in complex with sCD4, 17b, and 8ANC195);1YYL(CD4M33, a scorpion-toxin mimic of CD4, in complex with gp120 (YU2) and 17b);2I5Y(CD4M47, a scorpion-toxin mimic of CD4, in complex with gp120 (YU2) and 17b);1YYM(F23, a scorpion-toxin mimic of CD4, in complex with gp120 (YU2) and 17b);4RQS(gp120 core bound to CD4 and 17b Fab);1GC1(gp120 core complexed with CD4 and 17b);1RZJ(gp120 (HXB2) complexed with CD4 and 17b);1G9M(gp120 (HXB2) complexed with CD4 and 17b);2NY1(gp120 (I109C, T257S, S334A, S375W, Q428C) complexed with CD4 and 17b);2NY3(gp120 (K231C, T257S, E267C, S334A, S375W) complexed with CD4 and 17b);2NY4(gp120 (K231C, T257S, E268C, S334A, S375W) complexed with CD4 and 17b);2NY6(gp120 (M95W, W96C, I109C, T123C, T257S, V275C,S334A, S375W, Q428C, G431C) complexed with CD4 and 17b);2NY5(gp120 (M95W, W96C, I109C, T257S, V275C, S334A, S375W, Q428C, A433M) complexed with CD4 and 17b);2NY0(gp120 (M95W, W96C, T257S, V275C, S334A, S375W, A433M) complexed with CD4 and 17b);2NXY(gp120 (S334A) complexed with CD4 and 17b);2NY2(gp120 (T123C, T257S, S334A, S375W, G431C) complexed with CD4 and 17b);2NXZ(gp120 (T257S, S334A, S375W) complexed with CD4 and 17b);1G9N(gp120 (YU2) complexed with CD4 and 17b);1RZK(gp120 (YU2) complexed with CD4 and 17b);4JM2(PGT 135 Fab in complex with gp120 core (JR-FL) bound to CD4 and 17b Fab);2I60([Phe23]M47, a scorpion-toxin mimic of CD4, in complex with gp120 (YU2) and 17b)	N70			17b contacts;MPER membrane fusion mutations confer sensitivity;Mutation affects binding to 17b and 412d;Mutation affects neutralization;Mutations at the trimer apex that affect sensitivity	K	295	Yes	72.5734	3.44021	1.7b, 1.7B, sCD4-17b	
+19.3H-L3	gp120 V3 discontinuous	4F58(Fab structure of neutralizing antibody 19H.3-L3)	R880F		Murphy2013(23468623) 	Mutations affecting neutralization by 19H.3-L3	L	0					
+19b	gp120 V3 // V3 glycan (V3g)		N70		Robinson1990c(1694449) 		K	6	No			1.9B, N70-1.9b, N701.9b	
+1B2530	gp120 CD4bs	4YFL(1B2530 in complex with HIV-1 clade AE 93TH057 gp120)	Patient 1		Scheid2011(21764753) 	1B2530 contacts;Signature Analysis Summary	L	226		12.3292	9.01227		
+1B5	gp120 V2-CD4bs				Strokappe2012(22438910) 			32		22.1425	4.43342	VHH 1B5	llama antibody
+1C2	gp120 V2-CD4bs				Strokappe2012(22438910) 			26		13.908	6.2962	VHH 1C2	llama antibody
+1D9	gp120 V3 // V3 glycan (V3g)		KTS376		RamirezValdez2015(25486586) 		K	43	Yes	29.0254	10.7902		
+1E1	gp120 V2-CD4bs				Strokappe2012(22438910) 			26		70.1952	2.11803	VHH 1E1	llama antibody
+1E2	gp120 V2-CD4bs				Strokappe2012(22438910) 			26		67.1795	2.23987	VHH 1E2	llama antibody
+1F10	gp120 V2-CD4bs				Strokappe2012(22438910) 			26		9.64739	7.96383	VHH 1F10	llama antibody
+1F7	gp120 CD4bs				Buchacher1994(7520721) 		K	117		36.7319	6.60166	human 1F7	
+1H9	gp120 V2-CD4bs				Strokappe2012(22438910) 			26		25.1028	4.19244	VHH 1H9	llama antibody
+1NC9	gp120 CD4bs		Patient 1		Scheid2011(21764753) 		L	16		3.95204	24.6021		
+2158	gp120 V2 // V2 glycan(V2g) // V2 apex	4OAW(Fab structure of V2 mAb 2158)				Mutations at the trimer apex that affect sensitivity		41		64.242	2.90123		
+2191	gp120 V3 // V3 glycan (V3g)				Gorny2002(12186887) 			100		45.4818	5.17719		
+2219	gp120 V3 // V3 glycan (V3g)	2B0S(antibody 2219 in complex with three different V3 peptides);2B1A(Fab 2219 in complex with UG1033 peptide);2B1H(Fab 2219 in complex with UG29 peptide)			Gorny2002(12186887) 			105		49.8952	4.25128		
+246-D	gp41 cluster I				Xu1991(1714520) 		K	1	Yes			246, 246D, SZ-246.D	
+2557	gp120 V3 // V3 glycan (V3g)	3MLV(Fab 2557 in complex with an NOF V3 peptide);3MLR(Fab 2557 in complex with a NY5 V3 peptide);3MLT(Fab 2557 in complex with a UG1033 V3 peptide);3MLU(Fab 2557 in complex with a ZAM18 V3 peptide);3MLS(FAb 2557 in complex with gp120 V3 mimotope)			Gorny2004(14963135) 		L	105		61.1682	3.59128		
+2558	gp120 V3 // V3 glycan (V3g)	3UJI(Fab 2558 in complex with MN peptide)			Gorny2004(14963135) 		L	100		56.18	4.18878		
+25C4b	gp120 CD4i		KTS376		Tanaka2017(28938888) 		K	61		56.3613	3.97586		
+2909	quaternary structure	3PIQ(2909 Fab)			Gorny2005(15795308) 			10					
+2D4	gp120 V2-CD4bs				Strokappe2012(22438910) 			26		87.3381	1.38607	VHH 2D4	llama antibody
+2E7	gp120 V2-CD4bs				Strokappe2012(22438910) 			26		25.145	2.48845	VHH 2E7	llama antibody
+2F5	gp41 MPER (membrane proximal external region)	1TJG(2F5 complexed with gp41 7mer epitope);2F5B(2F5 complexed with gp41 epitope);2PR4(2F5 Fab);3BQU(2F5 Fab-3H6 Fab Complex);3MOD(2F5 Fab fragment with 11 aa gp41 MPER-derived peptide);3MOB(2F5 Fab fragment with 11 aa gp41 MPER-derived peptide);3MOA(2F5 Fab fragment with 17 aa gp41 MPER-derived peptide);3IDI(2F5 Fab fragment with gp41 Peptide ALDKWNQ);3IDM(2F5 Fab fragment with gp41 Peptide analog ELD(Nrg)WAS);3IDJ(2F5 Fab fragment with gp41 Peptide analog ELD(Orn)WAS);3IDN(2F5 Fab fragment with gp41 Peptide analog ELD(Paf)WAS);1TJH(2F5 with a gp41 11mer epitope);1TJI(2F5 with a gp41 17mer epitope);3LEV(2F5 with epitope scaffold ES2);3D0L(2F5 with gp41 FP-MPER Hyb3K construct);3DRQ(2F5 with gp41 FP-MPER Hyb3K construct soaked in PEG/2-propanol);1U8H(2F5 with gp41 Peptide ALDKWAS);3IDG(2F5 with gp41 Peptide ALDKWD);1U92(2F5 with gp41 Peptide Analog E-[Dap]-DKWQS (cyclic));1U91(2F5 with gp41 Peptide Analog ENDKW-[Dap]-S (cyclic));1U8P(2F5 with gp41 Peptide ECDKWCS);1U8O(2F5 with gp41 Peptide ELDKHAS);1U8J(2F5 with gp41 Peptide ELDKWAG);1U8I(2F5 with gp41 Peptide ELDKWAN);2PW2(2F5 with gp41 Peptide ELDKWKSL);2PW1(2F5 with gp41 Peptide ELDKWNSL);1U8Q(2F5 with gp41 Peptide ELEKWAS);3DRO(2F5 with gp41 peptide ELLELDKWASLWN);2P8L(2F5 with gp41 Peptide ELLELDKWASLWN);2P8M(2F5 with gp41 Peptide ELLELDKWASLWN in new crystal form);2P8P(2F5 with gp41 Peptide LELDKWASLW[N-Ac]);3D0V(2F5 with gp41 Peptide LLELDKWASLW);3DRT(2F5 with gp41 scrambledFP-MPER scrHyb3K construct);3EGS(2F5 with gp41 scrambledFP-MPER scrHyb3K construct soaked in ammonium sulfate);2F5A(Fab 2F5)			Buchacher1994(7520721) 	2F5 and 4E10 signature sites;2F5 contacts;2F5 signature predictions;hypervariable loop characteristic correlations with bNAb sensitivity;Mutation affects 2F5 binding;Mutation affects sensitivity to neutralization by 2F5 and 4E10;Mutations at the trimer apex that affect sensitivity;Q563R affects binding and neutralization of MPER mAbs;Signature Analysis Summary	K	1009	Yes	15.8297	8.86409	c2F5, IAM 2F5, IAM2F5, IAM-41-2F5	
+2G12	gp120 glycans;gp120 glycosylation sites in C2, C3, C4, and V4	EMD-8981(2G12 bound to HIV-1 Env BG505 DS-SOSIP which was also bound to VRC03);6E5P(2G12 bound to HIV-1 Env BG505 DS-SOSIP, which was also bound to VRC03);4RBP(2G12 in complex with a bacterial oligosaccharide analog of mammalian oligomanose);3OAU(2G12 Recognizes Di-Mannose);1OM3(Fab 2G12);1OP3(Fab 2G12 bound to disaccharide mannose);1OP5(Fab 2G12 bound to oligosaccharide mannose);1ZLS(Fab 2G12 + Man4);1ZLU(Fab 2G12 + Man5);1ZLV(Fab 2G12 + Man7);1ZLW(Fab 2G12 + Man8);2OQJ(Fab 2G12 with 21-mer peptide ligand);3OAY(Mimic of the HIV glycan shield);3OB0(Mimic of the HIV glycan shield);3OAZ(Mimic of the HIV glycan shield)			Buchacher1994(7520721) 	2G12 contacts;2G12 signature predictions;Mutation affects 2G12 binding;Mutation affects VRC01, PGT151, and 2G12 binding	K	1047	Yes	50.4996	4.80661	c2G12, G12	
+2N5	gp41-gp41 interface		Donor N152	35O22	Huang2014(25186731) 		L	8					
+3019	gp120 V3 // V3 glycan (V3g)				Gorny2006(16809292) 		L	21		24.59	7.87061		
+3074	gp120 V3 // V3 glycan (V3g)	3MLX(Fab 3074 in complex with an MN V3 peptide);3MLY(Fab 3074 in complex with a UR29 V3 peptide);3MLZ(Fab 3074 in complex with a VI191 V3 peptide)			Gorny2006(16809292) 		L	276		53.226	5.22956	V3-3074	
+35O22	gp41-gp41 interface	4TOY(35O22 Fab);6CH9(A natively-glycosylated B41 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and 35O22);6CH8(A natively-glycosylated BG505 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and 35O22);6CH7(A natively-glycosylated BG505 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and 35O22);5U7M(BG505 SOSIP.664 Prefusion Env Trimer Bound to Small Molecule HIV-1 Entry Inhibitor BMS-378806 in Complex with Human Antibodies PGT122 and 35O22);5U7O(BG505 SOSIP.664 Prefusion Env Trimer Bound to Small Molecule HIV-1 Entry Inhibitor BMS-626529 in Complex with Human Antibodies PGT122 and 35O22);6NNF(BG505 SOSIP.664 Prefusion Env Trimer Bound to VRC01 FR3-03 scFv in Complex with Crystallization Chaperones 3H109L Fab and 35O22 scFv);5V7J(BG505 SOSIP.664 Prefusion Env Trimer with Four Glycans removed in Complex with Neutralizing Antibodies 3H+109L and 35O22);5W6D(BG505-SOSIP.v4.1-GT1-N137A in complex with Fabs 35022 and 9H/109L);6OPA(bovine Fab NC-Cow1 in complex with BG505 SOSIP.664 and human Fabs 35022 and PGT128);5FYL(Clade A BG505 SOSIP.664 Prefusion Env Trimer in Complex with PGT122 and 35O22);5FYJ(Clade G X1193.c1 SOSIP.664 Prefusion Env Trimer in Complex with PGT122, 35O22 and VRC01);5UTF(DS-SOSIP.6mut BG505 gp140 HIV-1 Env Trimer, Containing Mutations I201C-P433C (DS), L154M, Y177W, N300M, N302M, T320L, I420M in Complex with Human Antibodies PGT122 and 35O22);5UTY(DS-SOSIP.mut4 BG505 gp140 HIV-1 Env Trimer, Containing Mutations I201C-P433C (DS), L154M, N300M, N302M, T320L in Complex with Human Antibodies PGT122 and 35O22);4TVP(Env Trimer Ectodomain in Complex with Antibodies PGT122 and 35O22);5T3S(gp140 trimer MD39-10MUTA in complex with Fabs PGT124 and 35022);5FYK(SOSIP.664 Prefusion Env Trimer in Complex with PGT122, 35O22 and VRC01);5UM8(trimer 16055 NFL TD CC (T569G) in complex with Fabs 35022 and PGT124)	Donor N152	35O22	Huang2014(25186731) 	35O22 contacts;35O22 mutations affecting neutralization;Mutation affects neutralization by 35O22	L	347		2.91957	51.8138	35022	
+3694	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 		L	21		26.6133	6.82383		
+3791	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 	MPER membrane fusion mutations confer sensitivity	K	21		38.8583	6.98744		
+3869	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 		L	109		62.4526	3.65919		
+3881	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 		K	21		56.9594	5.03908		
+3904	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 		K	21		53.9037	4.7151		
+3906	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 		L	21		26.3043	7.41849		
+3BC176	gp41-gp41 interface	5AWN(3BC176 Fab)	Patient 3		Klein2012(22826297) 	3BC176 and 3BC315 key sites;Signature Analysis Summary;Signature Analysis Summary	L	44		9.41136	12.6386		
+3BC315	gp41-gp41 interface	5CCK(3BC315 Fab)	Patient 3		Klein2012(22826297) 	3BC176 and 3BC315 key sites	L	37		31.4951	4.15671		
+3BNC117	gp120 CD4bs	4JPV(3BNC117 complexed with gp120);4LSV(3BNC117 complexed with gp120 (C1086));5V8M(BG505 SOSIP.664 trimer in complex with 3BNC117);5V8L(BG505 SOSIP.664 trimer in complex with 3BNC117 and PGT145);7PC2(Env in complex with the IgA bNAb 7-269 and 3BNC117);EMD-13316(Env in complex with the IgA bNAb 7-269 and 3BNC117)	Patient 3	3BNC117	Scheid2011(21764753) 	3BNC117 alanine scanning;3BNC117 contacts;3BNC117 signature predictions;Altered glycosylation affects neutralization by CD4BS bnAbs;hypervariable loop characteristic correlations with bNAb sensitivity;Mutation affects 3BNC117 neutralization;Neutralization of Env 426c and its glycan-deleted mutant by CD4BS Abs;Signature Analysis Summary;Sites selected during 3BNC117 immunotherapy	K	986	Yes	0.54359	21.3884	3BNC117 dRU3	
+3BNC117/10-1074	gp120 CD4bs;gp120 V3 // V3 glycan (V3g)		Donor 17,Patient 3		Bournazos2016(27315478) 			120		0.3867	8.31339		bispecific
+3BNC117/10-1074-IgG3C-	gp120 CD4bs;gp120 V3 // V3 glycan (V3g)		Donor 17,Patient 3		Bournazos2016(27315478) 			120		0.14654	8.41105		bispecific; IgG3C hinge variant
+3BNC117-IgG3C-	gp120 CD4bs		Patient 3		Bournazos2016(27315478) 			119		0.46648	15.5814		IgG3C hinge variant
+3BNC117/PGT135-IgG3C-	gp120 CD4bs;gp120 V3 // V3 glycan (V3g)		Donor 39,Patient 3		Bournazos2016(27315478) 			150		0.069889	11.0323	3BNC117-PGT135	bispecific; IgG3C hinge variant
+3BNC55	gp120 CD4bs	5I9Q(3BNC55 Fab in complex with 426c.TM4deltaV1-3 gp120)	Patient 3	3BNC117	Scheid2011(21764753) 	3BNC55 signature predictions;Signature Analysis Summary	K	121		4.68911	15.4342		
+3BNC60	gp120 CD4bs	5FEC(3BNC60 Fab germline precursor in complex with 426c.TM4deltaV1-3 gp120);4GW4(3BNC60 Fab with P61A mutation);3RPI(Fab 3BNC60)	Patient 3	3BNC117	Scheid2011(21764753) 	3BNC60 contacts	K	52		0.23941	10.8391		
+3BNC62	gp120 CD4bs		Patient 3	3BNC117	Scheid2011(21764753) 		K	15		0.83201	22.4684	BNC62	
+3E3	gp120 CD4bs				McCoy2014a(25522326) 			71		1.6937	13.0207		llama antibody
+4022	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 		L	21		29.5985	7.00816		
+4025	gp120 V3 // V3 glycan (V3g)	3UJJ(Fab 4025 in complex with Con A)			Gorny2009(18952295) 		L	21		38.9018	6.75202		
+4121	gp120 V3 // V3 glycan (V3g)				Gorny2009(18952295) 		L	21		43.5332	4.23385		
+4139	gp120 V3 // V3 glycan (V3g)				Andrabi2013(23466102) 		L	21		42.8949	5.76014		
+4210	gp120 V3 // V3 glycan (V3g)				Andrabi2013(23466102) 		L	21		27.2654	6.72866		
+438-B11	gp120 V3 // V3 glycan (V3g)	6V6W(438-B11 DSS mutant (Cys98A-100aA) in complex with an uncleaved prefusion optimized soluble BG505 trimer and Fab 35O22);6UUM(438-B11 DSS mutant (Cys98A-Cys100aA));6UTK(438-B11 Fab in complex with an uncleaved prefusion optimized soluble BG505 trimer and Fab 35O22);6UUH(Crystal structure of broad and potent HIV-1 neutralizing antibody 438-B11)	CBJC438	438-B11	Kumar2020(32938661) 	438-B11 contacts	K	138		4.05621	47.0693	B11	
+438-D5	gp120 V3 // V3 glycan (V3g)	6UUL(Crystal structure of broad and potent HIV-1 neutralizing antibody 438-D5)	CBJC438	438-B11	Kumar2020(32938661) 		K	14		1.12934	22.0589	D5	
+438-D6	gp120 V3 // V3 glycan (V3g)		CBJC438		Kumar2020(32938661) 		L	12				D6	
+438-F11	gp120 V3 // V3 glycan (V3g)		CBJC438		Kumar2020(32938661) 		L	12				F11	
+447-52D	gp120 V3 // V3 glycan (V3g)	3C2A(447-52D in complex with UG1033 peptide);1Q1J(Fab 447-52D in complex with V3 peptide);3GHB(Fab 447-52D in complex with V3 peptide 92RW020);4M1D(Fab 447-52D with V3 cyclic peptide MN)			Buchbinder1992(1466965) 	Mutations at the trimer apex that affect sensitivity	L	346	Yes	52.0444	6.58822	447, 447-52-D, 447/52-DII, 447d, 447-D, 447D, 447D-52	
+4487	gp120 V3 // V3 glycan (V3g)				Andrabi2013(23466102) 		L	21		34.0034	5.27528		
+4490	gp120 V3 // V3 glycan (V3g)				Andrabi2013(23466102) 		L	21		39.1782	5.0526		
+4508	gp120 V3 // V3 glycan (V3g)				Andrabi2013(23466102) 		K	21		34.7707	7.50925		
+45-46m2	gp120 CD4bs	4JKP(45-46m2 complexed with gp120)	NIH45	VRC01	Diskin2013(23712429) 	45-46m2 signature predictions		134		0.072729	38.6127	m2, NIH45-46 G54W.HC_S28Y.LC	
+45-46m25	gp120 CD4bs		NIH45	VRC01	Diskin2013(23712429) 			134		0.19645	24.9044	m25, NIH45-46 G54W_W47I.HC_S28Y.LC	
+45-46m28	gp120 CD4bs		NIH45	VRC01	Diskin2013(23712429) 			134		0.13328	26.0761	m28, NIH45-46 G54W_W47T.HC_S28Y.LC, NIH45-46m28	
+45-46m7	gp120 CD4bs		NIH45	VRC01	Diskin2013(23712429) 	45-46m7 signature predictions		134		0.1706	25.289	m7, NIH45-46 G54W_W47V.HC_S28Y.LC	
+48d	gp120 CD4i	3JWD(gp120 with gp41-Interactive Region with Fab 48D);3JWO(gp120 with gp41-Interactive Region with Fab 48D);1RZ7(Human anti-HIV-1 GP120-reactive antibody 48d);4DVR(YU2 gp120 core in complex with Fab 48d and NBD-557)				Mutations at the trimer apex that affect sensitivity	K	244	Yes	83.8477	2.28492	48D, 4.8d, 4.8D	
+49G2	gp120 CD4bs		KTS376		RamirezValdez2015(25486586) 		L	43	Yes	41.0048	7.41274		
+4E10	gp41 MPER (membrane proximal external region)	4XCE(4E10 Fab crystalized in the presence of Phosphatidylcholine; C2 space group);4XCC(4E10 Fab crystalized in the presence of Phosphatidylcholine; I422 space group);4XBP(4E10 Fab crystalized in the presence of Phosphatidylethanolamine);4NHC(4E10 Fab fragment in complex with a hydrocarbon-stapled peptide containing the 4e10 epitope on gp41);4NGH(4E10 Fab fragment in complex with a hydrocarbon-stapled peptide containing the 4e10 epitope on gp41 and a tethered phosphate moiety);4XAW(4E10 Fab in complex with its peptide epitope on HIV-1 gp41: Crystals cryoprotected with phosphatidic acid);4XCF(4E10 Fab in complex with its peptide epitope on HIV-1 gp41; crystals cryoprotected with phosphatidylcholine);4XC3(4E10 Fab in complex with its peptide epitope on HIV-1 gp41; crystals cryoprotected with rac-glycerol 1-phosphate);4XC1(4E10 Fab in complex with its peptide epitope on HIV-1 GP41: crystals cryoprotected with sn-Glycerol 3-phosphate);4XBE(4E10 Fab in complex with its peptide epitope on HIV-1 gp41: crystals cryoprotected with sphingomyelin);4XBG(4E10 Fab in complex with phosphatidic acid: 2.73 A resolution);4XCN(4E10 Fab in complex with phosphatidic acid; 2.9 A resolution);4XCY(4E10 Fab in complex with phosphatidylglycerol);4ODX(4E10 germline encoded precursor no.7 in complex with epitope scaffold T117);5X08(4E10, mutant Npro, with peptide bound);3H3P(Epitope-scaffold 4E10 Fv complex);1TZG(Fab 4E10 complexed with gp41 13mer epitope);2FX8(Fab 4E10 complexed with gp41 Aib-induced peptide);2FX7(Fab 4E10 complexed with gp41 epitope);2FX9(Fab 4e10 with 4e10 epitope on gp41);5CIN(non-neutralizing version of 4E10 (DeltaLoop) with epitope bound);5CIL(non-neutralizing version of 4E10 (WDWD) with epitope bound);4OB5(Ontogeny of recognition specificity and functionality for 4E10);4M62(Ontogeny of recognition specificity and functionality for 4E10);4LRN(Ontogeny of recognition specificity and functionality for 4E10);4M8Q(Ontogeny of recognition specificity and functionality for 4E10);4WY7(recombinant 4E10 expressed in Escherichia coli with epitope bound);5CIP(Unbound 4E10);4LLV(Unbound form of 4E10 Fv)		4E10	Buchacher1994(7520721) 	2F5 and 4E10 signature sites;4E10 contacts;4E10 signature predictions;hypervariable loop characteristic correlations with bNAb sensitivity;Mutation affects 4E10 binding;Mutation affects neutralization;Mutation affects neutralization by PGZL1, H4K3, or 4E10;Mutation affects sensitivity to neutralization by 2F5 and 4E10;Mutations at the trimer apex that affect sensitivity;Q563R affects binding and neutralization of MPER mAbs;Signature Analysis Summary	K	1042	Yes	3.01773	5.38513		
+4E9C	gp120 CD4i		KTS376		Yoshimura2010(20504942) 	Mutations coupling nAb resistance with ceniciviroc sensitivity	K	73	Yes	48.4957	5.54632		Heavy chain sequences for 4E9C, 916B2, and 917B11 are based on CDRH3 data from RamirezValdez2015 Table 1 and Tanaka2017, which suggest that these 3 HC sequences were mislabeled in RamirezValdez2015 Supp Fig 1; the sequence for 4E9C was labeled as 917B11.
+4O20	gp41-gp41 interface		Donor N152	35O22	Huang2014(25186731) 		L	8					
+561_01_18	gp120 CD4bs	6UDJ(bNAb 1-18 in complex with BG505 SOSIP.664 and 10-1074);EMD-20739(bNAb 1-18 in complex with BG505 SOSIP.664 and 10-1074)	IDC561	561_01_18	Schommers2020(32004464) 	561_01_18 contacts;561_01_18 escape mutations	K	225		0.087878	10.0157	1-18	
+561_01_55	gp120 CD4bs	6UDK(bNAb 1-55 in complex with modified BG505 SOSIP-based immunogen RC1 and 10-1074);EMD-20740(bNAb 1-55 in complex with modified BG505 SOSIP-based immunogen RC1 and 10-1074)	IDC561	561_01_18	Schommers2020(32004464) 		K	133		0.15568	11.3586	1-55	
+561_02_12	gp120 CD4bs		IDC561		Schommers2020(32004464) 		K	218		0.23892	26.0208	2-12	
+5D6S	gp120 CD4i		KTS376		RamirezValdez2015(25486586) 		K	0					
+5G2	gp120 V3 // V3 glycan (V3g)		KTS376		RamirezValdez2015(25486586) 		K	43		43.9838	7.36317		
+697-D	gp120 V2 // V2 glycan(V2g) // V2 apex	4D9L(Fab structure of V2 mAb 697)			Gorny1994(7525987) 	Mutations at the trimer apex that affect sensitivity		45		71.7537	2.35329	697-30D, 697D	
+7-107	gp120 glycans		pt7	7-269	Lorin2022(35230385) 		K	24	Yes	13.7129	21.1528		
+7-155	gp120 glycans		pt7		Lorin2022(35230385) 		K	24	No	24.5629	12.0493		
+7-176	gp120 glycans		pt7		Lorin2022(35230385) 		K	24	No	14.6654	16.8089		
+717G2	gp120 V3 // V3 glycan (V3g)		KTS376		RamirezValdez2015(25486586) 		K	43	Yes	38.9477	8.86956		
+7-269	gp120 glycans	7PC2(Env in complex with the IgA bNAb 7-269 and 3BNC117);EMD-13316(Env in complex with the IgA bNAb 7-269 and 3BNC117)	pt7	7-269	Lorin2022(35230385) 	7-269 contacts	K	56	Yes	5.6157	37.8576		
+7B9	gp41-gp41 interface		Donor N152	35O22	Huang2014(25186731) 		L	8					
+7H6	gp41 MPER (membrane proximal external region)		Donor N152	10E8	Huang2012a(23151583) 	Q563R affects binding and neutralization of MPER mAbs	L	26		0.42023	8.13379		
+7K3	gp41-gp41 interface		Donor N152	35O22	Huang2014(25186731) 		L	8					
+830A	gp120 V2 // V2 glycan(V2g) // V2 apex	4YWG(830A in complex with V1V2)			Nyambi2000(10888650) 			41		74.8356	2.7642		
+8ANC131	gp120 CD4bs	4RWY(8ANC131 in complex with HIV-1 clade B YU2 gp120)	Patient 8	8ANC131	Scheid2011(21764753) 	8ANC131 contacts;hypervariable loop characteristic correlations with bNAb sensitivity;Mutation affects 8ANC131 neutralization;Signature Analysis Summary	K	192		4.59984	11.8678		
+8ANC134	gp120 CD4bs	4RX4(8ANC134 in complex with HIV-1 clade A Q842.d12 gp120)	Patient 8	8ANC131	Scheid2011(21764753) 	8ANC134 contacts	K	174		8.4335	15.9968		
+8ANC195	gp41-gp120 interface	4P9M(8ANC195 Fab);5CJX(8ANC195 Fab in complex with BG505 SOSIP.664 HIV-1 Env trimer);4P9H(8ANC195 Fab in complex with gp120 of 93TH057 HIV-1 and soluble CD4 D1D2);5VIY(BG505 SOSIP.664 in complex with antibodies BG1 and 8ANC195);5VJ6(BG505 SOSIP.664 in complex with PG9 and 8ANC195);5C7K(BG505 SOSIP gp140 HIV-1 Env trimer bound to broadly neutralizing antibodies PGT128 and 8ANC195);5A8H(cryo-ET subtomogram averaging of BG505 SOSIP.664 in complex with sCD4, 17b, and 8ANC195);5JSA(gp140 trimer with an engineered 10-residue HR1 turn bound to 8ANC195 and PGT128);5JS9(gp140 trimer with an engineered 8-residue HR1 turn bound to 8ANC195 and PGT128);5A7X(negative stain EM of BG505 SOSIP.664 in complex with sCD4, 17b, and 8ANC195)	Patient 8		Scheid2011(21764753) 	8ANC195 contacts;8ANC195 contacts;8ANC195 residue prediction;8ANC195 signature predictions;Mutation affects 8ANC195 neutralization;Signature Analysis Summary	K	272	No	5.9534	12.3504		
+8ANC195-IgG3C-	gp41-gp120 interface		Patient 8		Bournazos2016(27315478) 			116		3.67154	15.0125		IgG3C hinge variant
+8ANC195/PGT128-IgG3C-	gp120 V3 // V3 glycan (V3g);gp41-gp120 interface		Donor 36,Patient 8		Bournazos2016(27315478) 			116		0.16412	16.5915		bispecific; IgG3C hinge variant
+916B2	gp120 CD4i		KTS376		RamirezValdez2015(25486586) 		L	74	Yes	51.6306	5.05756		Heavy chain sequences for 4E9C, 916B2, and 917B11 are based on CDRH3 data from RamirezValdez2015 Table 1 and Tanaka2017, which suggest that these 3 HC sequences were mislabeled in RamirezValdez2015 Supp Fig 1; the sequence for 916B2 was labeled as 4E9C.
+917B11	gp120 CD4i		KTS376		RamirezValdez2015(25486586) 		L	43	Yes	52.6175	6.60239		Heavy chain sequences for 4E9C, 916B2, and 917B11 are based on CDRH3 data from RamirezValdez2015 Table 1 and Tanaka2017, which suggest that these 3 HC sequences were mislabeled in RamirezValdez2015 Supp Fig 1; the sequence for 917B11 was labeled as 916B2.
+A12	gp120 CD4bs				Forsman2008(18842738) 			73		30.7894	9.19053	VHH A12	llama antibody
+A14	gp120 CD4bs				McCoy2014a(25522326) 			61		1.96465	20.132		llama antibody
+A16	gp120 CD4bs		F524		Qiao2016(27387828) 	A16 contacts		79		57.3488	3.53445		
+A32	gp120 CD4i C1 (Cluster A)	3TNM(A32 Fab, an ADCC mediating anti-HIV-1 antibody);4YBL(stabilized inner domain of clade A/E HIV-1 gp120 in complex with the ADCC mediating ANTI-HIV-1 antibody A32);4YC2(stabilized inner domain of clade A/E HIV-1 gp120 in complex with the antibody A32)				W69 is important for ADCC		36	Yes			A-32	
+Ab1485	gp120 V3 // V3 glycan (V3g)	7KDE(BG505 SOSIP.664 with macaque mAb Ab1485 and human mAb 8ANC195)	CE8J		Wang2020(33084569) 	Ab1485 contacts	L	42		4.39027	63.7904		macaque antibody
+ACS202	fusion peptide // near gp41-gp120 interface	EMD-8299(AMC011 SOSIP trimer in complex with autologous antibody ACS202)	D12950		vanGils2016(27841852) 	Mutation affects ACS202 neutralization or binding	K	87		5.41892	33.6177		
+AIIMS-P01	gp120 V3 // V3 glycan (V3g)		AIIMS_330		Kumar2019(30429339) 			120		3.64015	27.933		
+b12	gp120 CD4bs	1N0X(B12 complexed with mimotope);1HZH(B12 unliganded);5VN8(B41 SOSIP.664 in complex with fragment antigen binding variable domain of b12);3RU8(Fab b12 with epitope scaffold);2NY7(gp120 complexed with Fab b12)	Donor b		Burton1991(1719545) 	b12 contacts;b12 signature predictions;b12 signature sites;Mutation affects neutralization;Mutation affects PGV04, b12, VRC01, CD4-IgG neutralization;Mutation decreases binding to CD4BS mAbs;Signature Analysis Summary	K	1017	Yes	29.2218	7.10037	1b12, b4/12, Fab b12, Ib12, IgG1 b12, IgG1-b12, IgGB12, MAb IgG1b12	
+b13	gp120 CD4bs	3IDX(gp120 core in complex with b13);3IDY(gp120 core in complex with b13)	Donor b		Burton1991(1719545) 	Mutations at the trimer apex that affect sensitivity	K	181		71.9753	3.28219		
+B21	gp120 CD4bs				McCoy2014a(25522326) 			61		2.9596	17.6827		
+b6	gp120 CD4bs		Donor b		Burton1991(1719545) 	MPER membrane fusion mutations confer sensitivity;Mutation decreases binding to CD4BS mAbs	K	65	Yes			IgG1b6	
+B9	gp120 CD4bs				McCoy2014a(25522326) 			61		1.76635	20.2176		
+BE10			GX2016EU04		Ju2018(30382080) 		K	14		100	1		
+BE7			GX2016EU04		Ju2018(30382080) 		K	14		29.3592	17.219		
+BF520.1	gp120 V3 // V3 glycan (V3g)	6MN7(BG505.SOSIP.664 in complex with BF520.1 antigen binding fragment)	BF520	BF520	Simonich2016(27345369) 		K	36		16.2187	7.8476		
+BF520.1-A52N(HC)	gp120 V3 // V3 glycan (V3g)		BF520	BF520	Wiehe2018(29861171) 		K	13		20.9761	5.02805		
+BF8			GX2016EU04		Ju2018(30382080) 		K	14		31.9421	12.6671		
+BG1	gp120 V1-V2	5VVF(BG1 Fab);5VIY(BG505 SOSIP.664 in complex with antibodies BG1 and 8ANC195)	EB354		Freund2017(28100831) 		K	119		16.0657	16.2174	354BG1	
+BG18	gp120 V3 // V3 glycan (V3g)	6CH9(A natively-glycosylated B41 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and 35O22);6CH8(A natively-glycosylated BG505 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and 35O22);6CH7(A natively-glycosylated BG505 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and 35O22);6CHB(A natively-glycosylated BG505 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and IOMA)	EB354	BG18	Freund2017(28100831) 	BG18 contacts;BG18 contacts with BG505 SOSIP.664 Env trimer (PDB 6CH7)	L	170		0.66662	95.1206	354BG18	
+BG24	gp120 CD4bs	7UCE(BG24 Fab fragment);7UGQ(BG24 Fabs with an inferred germline CDRL1 and 10-1074 Fabs in complex with HIV-1 Env 6405-SOSIP.664);7UGP(BG24 Fabs with an inferred germline light chain and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1 containing the N276 gp120 glycan);7UGM(BG24-iGL CDR3mat Fab);7UGN(BG24 inferred germline Fabs with germline CDR3s and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1);7UGO(BG24 inferred germline Fabs with mature CDR3s and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1);7UCF(BG505 SOSIP.664 trimer in complex with neutralizing antibody Fab fragments 10-1074 and BG24);EMD-26494(Cryo-EM map of BG24 Fabs with an inferred germline light chain and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1 containing the N276 gp120 glycan- Class 2);EMD-26495(Cryo-EM map of BG24 Fabs with an inferred germline light chain and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1 containing the N276 gp120 glycan- Class 3);EMD-26496(Cryo-EM structure of BG24 Fabs with an inferred germline CDRL1 and 10-1074 Fabs in complex with HIV-1 Env 6405-SOSIP.664);EMD-26493(Cryo-EM structure of BG24 Fabs with an inferred germline light chain and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1 containing the N276 gp120 glycan- Class 1);EMD-26490(Cryo-EM structure of BG24 inferred germline Fabs with germline CDR3s and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1 - Class 1);EMD-26491(Cryo-EM structure of BG24 inferred germline Fabs with germline CDR3s and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1 - Class 2);EMD-26492(Cryo-EM structure of BG24 inferred germline Fabs with mature CDR3s and 10-1074 Fabs in complex with HIV-1 Env immunogen BG505-SOSIPv4.1-GT1);EMD-26443(DU422 SOSIP.664 trimer in complex with neutralizing antibody Fab fragments 10-1074 and BG24);7UCG(DU422 SOSIP.664 trimer in complex with neutralizing antibody Fab fragments 10-1074 and BG24)	391370	BG24	Barnes2022(35960796) 	BG24 contacts;Mutation abrogates BG24 OR VRC01 neutralization;Mutations associated with immunotherapy with BG24 or VRC01	L	139		0.75835	12.2741		
+BG24-CDR2-v1	gp120 CD4bs		391370	BG24	Barnes2022(35960796) 		L	128		0.22486	10.727	BG24-PG20-CDR2-v1	
+BG24-CDR2-v2	gp120 CD4bs		391370	BG24	Barnes2022(35960796) 		L	128		0.23641	9.44785	BG24-PG20-CDR2-v2	
+BG24-G54W	gp120 CD4bs		391370	BG24	Barnes2022(35960796) 		L	128		0.31771	12.7243		
+BG24-Y100DW	gp120 CD4bs		391370	BG24	Barnes2022(35960796) 		L	126		3.0299	17.5689		
+BG33	gp120 CD4bs		391370	BG24	Barnes2022(35960796) 		L	15		8.17514	15.7693		
+BG38	gp120 CD4bs		391370	BG24	Barnes2022(35960796) 		L	20		1.7106	24.7647		
+BG5	gp120 CD4bs		391370	BG24	Barnes2022(35960796) 		L	15		6.22045	30.5647		
+BG8	gp120 V3 // V3 glycan (V3g)		EB354	BG18	Freund2017(28100831) 		L	117		1.84643	43.5005	354BG8	
+BiIA-DG	gp120 V3 // V3 glycan (V3g);non-HIV: host CD4R		Donor 36		Wu2018(29461979) 			40		0.44461	16.383		An engineered tandem bispecific bnAb composed from PGT128, iMab, and ImmunoAdhesin
+BiIA-SG	gp120 V3 // V3 glycan (V3g);non-HIV: host CD4R		Donor 36		Wu2018(29461979) 			88		0.016005	9.66693		An engineered tandem bispecific bnAb composed from PGT128, iMab, and ImmunoAdhesin
+Bi-NAb	gp120 CD4bs;gp120 V3 // V3 glycan (V3g)		Donor 17,NIH45		Steinhardt2018(29491415) 			208		0.39295	7.9911	Bi-NAb dVRC01-5X-PGT121	bispecific involving VRC01 and PGT121
+Bi-ScFv	gp120 CD4bs;gp120 V3 // V3 glycan (V3g)		Donor 17,NIH45		Steinhardt2018(29491415) 			208		0.14478	11.9134	Bi-ScFv dVRC01-5X-PGT121	bispecific involving VRC01 and PGT121
+C8	gp120 CD4bs				Forsman2008(18842738) 			67		52.7405	3.87312	VHH C8	llama antibody
+CAP228-16H	gp120 V2 // V2 glycan(V2g) // V2 apex	6FY2(CAP228-16H in complex with a heterologous CAP225 V1V2);6FY1(CAP228-16H in complex with a scaffolded autologous V1V2)	CAP228	CAP228-16H	vanEeden2018(30540944) 	Contacts of IGHV5-51 V2 antibodies	L	12	Yes				
+CAP228-19F	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP228	CAP228-16H	vanEeden2018(30540944) 		L	12	Yes				
+CAP228-3D	gp120 V2 // V2 glycan(V2g) // V2 apex	6FY3(CAP228-3D bound to a heterologous V2 peptide)	CAP228		vanEeden2018(30540944) 	Contacts of IGHV5-51 V2 antibodies	L	12	Yes				
+CAP248-2B	fusion peptide // near gp41-gp120 interface	5MP6(Unliganded Fab from CAP248-2B);5F89(Unliganded Fab from CAP248-2B)	CAP248		Wibmer2017(28076415) 	Mutation affects neutralization by CAP248-2B	L	18		44.1122	10.1748		
+CAP256V2LS	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256		Zhang2022(36284200) 			296		0.11433	207.014		
+CAP257-RH1	gp120 CD4bs	5T33(CAP257-RH1 in complex with strain RHPA gp120 core with an oligomannose N276 glycan)	CAP257		Wibmer2016(27581986) 	CAP257-RH1 contacts;Mutation affects CAP257-RH1 neutralization	L	196		96.2519	1.70482		
+CD4-Ig								246		2.60371	7.5296		
+CH01	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CH0219	CH01	Bonsignori2011(21795340) 	Disulfide bond introduced in V1V2 affects binding;Disulfide bond introduced in V1V2 affects binding and neutralization;L184F escapes V2-targeting bnAbs;Mutation affects neutralization by V1V2 glycan mAbs;Mutation affects PG9-like Ab sensitivity;PG9-like antibodies require N160 for neutralization;PG9-like contacts;V2 Signature Analysis Summary	K	386		11.7901	10.718		
+CH02	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CH0219	CH01	Bonsignori2011(21795340) 	Mutation affects PG9-like Ab sensitivity;PG9-like contacts	K	143		12.23	16.0314		
+CH03	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	5ESV(CH03 in Complex with Scaffolded Trimeric HIV-1 Env V1V2 Domain from Clade C Superinfecting Strain of Donor CAP256)	CH0219	CH01	Bonsignori2011(21795340) 	Disulfide bond introduced in V1V2 affects binding;Disulfide bond introduced in V1V2 affects binding and neutralization;Mutation affects PG9-like Ab sensitivity;PG9-like contacts	K	90		9.22651	20.6749		
+CH04	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	3TCL(Antibody CH04);5ESZ(CH04 in Complex with Scaffolded Trimeric HIV-1 Env V1V2 Domain from the Clade AE Strain A244)	CH0219	CH01	Bonsignori2011(21795340) 	Mutation affects PG9-like Ab sensitivity;PG9-like contacts	K	155		18.6072	12.7275		
+CH103	gp120 CD4bs	4JAM(antibody CH103);4JAN(CH103 in complex with HIV-1 gp120)	Donor CH505	CH103	Liao2013(23552890) 	Antibody-driven selection in donor CH505;CH103 and CH235 evolution;CH103 contacts;hypervariable loop characteristic correlations with bNAb sensitivity;Mutations at the trimer apex that affect sensitivity;Signature Analysis Summary	L	256		4.15305	11.0261		
+CH104	gp120 CD4bs		Donor CH505	CH103	Liao2013(23552890) 		L	7					
+CH105	gp120 CD4bs		Donor CH505	CH103	Liao2013(23552890) 		L	7					
+CH106	gp120 CD4bs		Donor CH505	CH103	Liao2013(23552890) 		L	13					
+CH12	gp41 MPER (membrane proximal external region)		CAP206		Morris2011(21980336) 		L	29		70.5082	2.20639	CAP206-CH12	
+CH13	gp120 CD4bs		CH0457	CH13	Moody2015(26355218) 	Mutation decreases binding to CD4BS mAbs		37		29.0118	10.8032		
+CH14	gp120 V3 // V3 glycan (V3g)		CH0457		Moody2015(26355218) 			52		48.3679	8.7145		
+CH16	gp120 CD4bs		CH0457	CH13	Moody2015(26355218) 			48		43.7543	7.61358		
+CH17	gp120 CD4bs		CH0457	CH13	Moody2015(26355218) 			48		43.9701	8.29155		
+CH18	gp120 CD4bs		CH0457	CH13	Moody2015(26355218) 			48		46.2777	7.03121		
+CH235	gp120 CD4bs	EMD-8083(B41 SOSIP.664 trimer in complex with CH235 Fab);EMD-8082(BG505 SOSIP.664 in complex with CH235 Fab);5F9W(CH235 in complex with HIV-1 clade AE 93TH057 gp120)	Donor CH505	CH235	Gao2014(25065977) 	Antibody-driven selection in donor CH505;CH103 and CH235 evolution	K	207		58.7249	3.31513		
+CH235.12	gp120 CD4bs	EMD-8079(B41 SOSIP.664 trimer in complex with CH235.12 Fab);EMD-8078(BG505 SOSIP.664 trimer in complex with CH235.12 Fab);5F96(CH235.12 in complex with HIV-1 clade AE 93TH057 gp120)	Donor CH505	CH235	Bonsignori2016(26949186) 	Antibody-driven selection in donor CH505;Electrostatic interactions with D368;hypervariable loop characteristic correlations with bNAb sensitivity;Signature Analysis Summary	K	213		1.00319	6.97703	CH557	
+CH235.9	gp120 CD4bs	EMD-8080(B41 SOSIP.664 trimer in complex with CH235.9 Fab);EMD-8081(BG505 SOSIP.664 trimer in complex with CH235.9 Fab);5F9O(CH235.09 in complex with HIV-1 clade AE 93TH057 gp120)	Donor CH505	CH235	Bonsignori2016(26949186) 	Antibody-driven selection in donor CH505;Electrostatic interactions with D368	K	199		6.24706	6.05784	CH235.09, CH493	
+CH235-L47W(HC)	gp120 CD4bs		Donor CH505	CH235	Wiehe2018(29861171) 		K	13		68.2638	3.75302		
+CH235-Q23K(HC)	gp120 CD4bs		Donor CH505	CH235	Wiehe2018(29861171) 		K	13		37.0384	5.53909		
+CH235-Q46E(HC)	gp120 CD4bs		Donor CH505	CH235	Wiehe2018(29861171) 		K	13		33.8719	5.91156		
+CH235-R57S(HC)	gp120 CD4bs		Donor CH505	CH235	Wiehe2018(29861171) 		K	13		80.6445	2.10685		
+CH235-T19K(HC)	gp120 CD4bs		Donor CH505	CH235	Wiehe2018(29861171) 		K	16		41.0872	4.97077		
+CH235-W55G(HC)	gp120 CD4bs		Donor CH505	CH235	Wiehe2018(29861171) 		K	13		72.9702	2.97905		
+CH27	gp120 CD4bs		CH0457	CH27	Moody2015(26355218) 			52		32.1877	9.71576		
+CH28	gp120 CD4bs		CH0457	CH27	Moody2015(26355218) 	Mutation decreases binding to CD4BS mAbs		48		10.2164	18.223		
+CH44	gp120 CD4bs		CH0457	CH27	Moody2015(26355218) 	Signature Analysis Summary		48		12.6426	13.6918		
+CH45	gp120 CD4bs		CH0457	CH13	Moody2015(26355218) 			48		65.2365	3.88002		
+CH46	gp120 CD4bs		CH0457	CH13	Moody2015(26355218) 			0					
+CH48	gp120 V3 // V3 glycan (V3g)		CH0457		Moody2015(26355218) 			52		42.3533	9.47883		
+CH58	gp120 V2 // V2 glycan(V2g) // V2 apex	4HQQ(RV144-elicited antibody CH58);4HPO(RV144-elicited antibody CH58 in complex with V2 peptide)	347759		Liao2013b(23313589) 	Contacts and binding of CH58 and CH59;Contacts of IGHV5-51 V2 antibodies	L	15	Yes	87.0259	1.65044		
+CH59	gp120 V2 // V2 glycan(V2g) // V2 apex	4HPY(RV144-elicited antibody CH59 in complex with V2 peptide)	347759		Liao2013b(23313589) 	Contacts and binding of CH58 and CH59	L	9	Yes				
+CH98	gp120 CD4bs		CH5329		Bonsignori2014(24614107) 	Mutation decreases binding to CD4BS mAbs	L	42		10.0009	10.7667		
+D7	gp120 CD4bs				Forsman2008(18842738) 			63		45.9572	6.12633	VHH D7	
+DH270.1	gp120 V3 // V3 glycan (V3g)	5U0U(DH270.1 (unliganded, single-chain Fv))	CH848	DH270	Bonsignori2017(28298420) 	V3 Signature Analysis Summary	L	210		10.6907	17.4537	DH270	
+DH270.2	gp120 V3 // V3 glycan (V3g)		CH848	DH270	Bonsignori2017(28298420) 		L	32		1.87215	24.245	DH473	
+DH270.3	gp120 V3 // V3 glycan (V3g)	6CBJ(DH270.3 Fab in complex with Man9);5TPL(DH270.3 unliganded)	CH848	DH270	Bonsignori2017(28298420) 		L	27		14.1611	14.7117	DH391	
+DH270.4	gp120 V3 // V3 glycan (V3g)		CH848	DH270	Bonsignori2017(28298420) 		L	48		0.73671	31.5641	DH429	
+DH270.5	gp120 V3 // V3 glycan (V3g)	5TPP(DH270.5 (unliganded))	CH848	DH270	Bonsignori2017(28298420) 	V3 Signature Analysis Summary	L	210		5.93299	24.2443	DH471	
+DH270.6	gp120 V3 // V3 glycan (V3g)	6CBP(DH270.6 bnAb in complex with the Man9-V3 glycopeptide);5TQA(DH270.6 (unliganded))	CH848	DH270	Bonsignori2017(28298420) 	hypervariable loop characteristic correlations with bNAb sensitivity;V3 Signature Analysis Summary	L	215		2.71164	35.2194		
+DH270 IA1	gp120 V3 // V3 glycan (V3g)		CH848	DH270	Bonsignori2017(28298420) 		L	27		0.79309	34.2106		
+DH270 IA2	gp120 V3 // V3 glycan (V3g)		CH848	DH270	Bonsignori2017(28298420) 		L	32		8.21191	19.2654	DH270 I2	
+DH270 IA3	gp120 V3 // V3 glycan (V3g)		CH848	DH270	Bonsignori2017(28298420) 		L	27		19.1294	10.6103		
+DH270 IA4	gp120 V3 // V3 glycan (V3g)		CH848	DH270	Bonsignori2017(28298420) 		L	27		62.349	3.85642		
+DH511.1	gp41 MPER (membrane proximal external region)	5U3J(DH511.1 Fab in Complex with HIV-1 gp41 MPER Peptide)	CH0210	DH511	Williams2017(28783671) 		K	41		0.62322	6.66116		
+DH511.10P	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	0					
+DH511.11P	gp41 MPER (membrane proximal external region)	5U3M(DH511.11P Fab in Complex with HIV-1 gp41 MPER Peptide)	CH0210	DH511	Williams2017(28783671) 		K	210		0.64487	5.30457		
+DH511.12P	gp41 MPER (membrane proximal external region)	5U3N(DH511.12P Fab in Complex with HIV-1 gp41 MPER Peptide)	CH0210	DH511	Williams2017(28783671) 		K	210		0.5949	5.17193		
+DH511.2	gp41 MPER (membrane proximal external region)	5U3K(DH511.2 Fab in Complex with HIV-1 gp41 MPER 662-683 Peptide);5U3L(DH511.2 Fab in Complex with HIV-1 gp41 MPER 670-683 Peptide)	CH0210	DH511	Williams2017(28783671) 	DH511.2 and DH511.2_K3 contacts;Signature Analysis Summary	K	382		1.06803	6.49489		
+DH511.2_K3	gp41 MPER (membrane proximal external region)	5U3O(DH511.2_K3 Fab in Complex with HIV-1 gp41 MPER Peptide)	CH0210	DH511	Williams2017(28783671) 	DH511.2 and DH511.2_K3 contacts;Signature Analysis Summary	K	302		0.34124	5.79184	DH511.2 K3, DH511 K3	chimeric: heavy chain from DH511.2 + light chain from DH511.8P
+DH511.3	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	41		1.28786	6.73283		
+DH511.4	gp41 MPER (membrane proximal external region)	5U3P(DH511.4 Fab)	CH0210	DH511	Williams2017(28783671) 		K	41		1.78849	4.40134		
+DH511.5	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	41		1.52602	5.60216		
+DH511.6	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	41		1.34659	8.10451		
+DH511.7P	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	0					
+DH511.8P	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	0					
+DH511.9P	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	0					
+DH511_I1	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	12					
+DH511_I2	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	12					
+DH511_I3	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	12					
+DH511_I4	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	12					
+DH511_I5	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	12					
+DH511_I6	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	12					
+DH511_UCA	gp41 MPER (membrane proximal external region)		CH0210	DH511	Williams2017(28783671) 		K	12					
+DH512	gp41 MPER (membrane proximal external region)		CH0210		Haynes2016a() 		K	220		0.84237	7.89035	Ab510049	
+DH517	gp41 MPER (membrane proximal external region)		CH0210		Williams2017(28783671) 		L	32		17.394	9.28817	Ab510053	
+DH563	gp120 V3 // V3 glycan (V3g)		CH765	VRC41	Alam2017(28298421) 	Mutation affects neutralization of V3 mAbs	K	30		28.4967	3.61814	CH765-DH563	
+DH651.1	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	12					
+DH651.2	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	12					
+DH651.3	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	12					
+DH651.4	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	12					
+DH651.5	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	12					
+DH651.6	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	12					
+DH651.7	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	12					
+DH651.8	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Bonsignori2018(30552024) 		K	12					
+DH651.9	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Bonsignori2018(30552024) 		K	12					
+DRVIA1	gp120 CD4bs		DRVI01	DRVIA1-6b	Kong2016(27067056) 		K	8					
+DRVIA3	gp120 CD4bs		DRVI01	DRVIA1-6b	Kong2016(27067056) 		K	24		78.3911	3.21425		
+DRVIA4	gp120 CD4bs		DRVI01	DRVIA1-6b	Kong2016(27067056) 		K	8					
+DRVIA6b	gp120 CD4bs		DRVI01	DRVIA1-6b	Kong2016(27067056) 		K	8					
+DRVIA7	gp120 CD4bs	5CD3(Immature DRVIA7);5CD5(Immature DRVIA7 bound to clade A/E HIV-1 gp120 core);EMD-6372(JRFL Env SOSIP.664 in complex with DRVIA7);EMD-6373(JRFL Env SOSIP.664 in complex with hybrid antibody DRVIA7/VRC01)	DRVI01		Kong2016(27067056) 	DRVIA7 contacts	K	85		30.9708	9.14724	A7	
+DRVIA7H-VRC01L	gp120 CD4bs		DRVI01,NIH45		Kong2016(27067056) 		K	51		4.07941	9.45761	DRVIA7H+ VRC01L	
+F105	gp120 CD4bs	1U6A(Fab F105);3HI1(gp120 (core with V3) complex with F105)			Posner1991(1710248) 	Mutations at the trimer apex that affect sensitivity	K	248	Yes	74.8148	3.14566	F-105	
+F2			GX2016EU04		Ju2018(30382080) 		K	14		39.5362	9.9704		
+F4			GX2016EU04		Ju2018(30382080) 		K	14		27.6318	16.9226		
+F425 B4e8	gp120 V3 // V3 glycan (V3g)	2QSC(Fab F425-B4e8 in complex with a V3-peptide)			Cavacini2003(12646791) 	Mutations at the trimer apex that affect sensitivity		21				B4e8, F425, F425b, F425-B4e8, F425B4e8	
+F6	gp120		GX2016EU04		Ju2018(30382080) 		K	37		30.2306	3.85063		
+F8			GX2016EU04		Ju2018(30382080) 		K	14		32.9787	15.9841		
+gVRC-H1dC38/VRC01L	gp120 CD4bs		C38,NIH45		Zhu2013a(24106303) 		K	153		1.52584	11.0448		chimeric
+H6			GX2016EU04		Ju2018(30382080) 		K	14		47.919	6.13045		
+HG107	gp120 V2 // V2 glycan(V2g) // V2 apex		200134		Liao2013b(23313589) 		L	2	Yes				
+HG120	gp120 V2 // V2 glycan(V2g) // V2 apex		302689		Liao2013b(23313589) 		L	2	Yes				
+HGN194	gp120 V3 // V3 glycan (V3g)		VI3265		Corti2010(20098712) 			93		41.2735	8.6293		
+HJ16	gp120 CD4bs	4YE4(Neutralizing Antibody HJ16 in Complex with HIV-1 gp120)	VI3208		Corti2010(20098712) 	HJ16 binding requires N276;HJ16 contacts;Mutation decreases binding to CD4BS mAbs;Signature Analysis Summary	K	310		18.844	15.5049	HJ16_22	
+HK20	gp41 NHR (N-heptad repeat)	2XRA(HK20 Fab in complex with a gp41 mimetic 5-Helix)	VI3081		Corti2010(20098712) 			98	Yes	94.9494	1.2932		
+IA-Hu5A8	non-HIV: host CD4R				Wu2018(29461979) 			40		0.08637	7.42203	IA-iMab	iMab variant that includes ImmunoAdhesin
+IA-PGT128	gp120 V3 // V3 glycan (V3g)		Donor 36	PGT128				40		0.91676	32.6088		Engineered form of PGT128 that includes ImmunoAdhesin
+iMab	non-HIV: host CD4R	3O2D(CD4 in complex with a potent antiviral antibody)						130		0.092014	10.111	5A8, Hu5A8, ibalizumab, TMB-355, TNX-335	iMab is an anti-CD4 receptor antibody (not anti-HIV)
+iMab-CAP256	gp120 V2 // V2 glycan(V2g) // V2 apex;non-HIV: host CD4R		CAP256		Moshoette2019(31703699) 			20		0.0017699	14.8957		bispecific
+iMab-N6	gp120 CD4bs;non-HIV: host CD4R		Z258		Moshoette2022(36071449) 			21		0.047116	3.13508		bispecific
+IOMA	gp120 CD4bs	6CHB(A natively-glycosylated BG505 SOSIP.664 HIV-1 Envelope Trimer in complex with the broadly-neutralizing antibodies BG18 and IOMA);5T3X(Fully and Natively Glycosylated BG505 SOSIP.664 HIV-1 Env Trimer in Complex with Antibodies IOMA and 10-1074);5T3Z(Fully and Natively Glycosylated BG505 SOSIP.664 HIV-1 Env Trimer in Complex with Antibodies IOMA and 10-1074)	R1		Gristick2016(27617431) 	IOMA contacts	L	245		12.8509	10.7645	IOMA.25	
+J3	gp120 CD4bs				McCoy2012(22641382) 			104		0.86234	5.5542	L8CJ3, VHH J3	llama antibody
+JM2	gp120 CD4bs				Matz2013(23152508) 			20		41.385	5.39358		llama antibody
+JM3	gp120-CD4 complex				Matz2013(23152508) 			22		17.5591	5.39603		llama antibody
+JM4	gp120 CD4bs;gp120 CD4i	4LAJ(JM4 in complex with YU2 gp120 and CD4-mimetic miniprotein M48U1)			Matz2013(23152508) 			65		15.086	9.38502	JM4sdAb, JM4SdAb	llama antibody
+JM4-IgG2b	gp120 CD4bs;gp120 CD4i				Acharya2013(23843638) 			195		0.27111	11.9335		llama antibody
+JM4-IgG3	gp120 CD4bs;gp120 CD4i				Acharya2013(23843638) 			30		0.71993	8.96791		llama antibody
+JM5	gp120-CD4 complex				Matz2013(23152508) 			21		44.7172	4.30427		llama antibody
+KD-247	gp120 V3 // V3 glycan (V3g)	3NTC(KD-247 Fab)			Eda2006a(16699036) 			43	Yes	38.95	7.78897		mouse antibody
+LN01	gp41 MPER (membrane proximal external region)	6SNC(LN01 Fab in complex with an HIV-1 gp41 peptide);6SNE(LN01 Fab in complex with an HIV-1 gp41 peptide);6SND(LN01 Fab in complex with an HIV-1 gp41 peptide)	SA003		Pinto2019(31653484) 	LN01 contacts	K	118	Yes	1.36778	7.16531		
+M36/PRO-140	gp120 CD4i;non-HIV: host CCR5				Khan2018(29976677) 			107		0.011253	6.26089	m36.4fv-PRO-140fv	bispecific
+m66	gp41 MPER (membrane proximal external region)	4NRY(Antibody m66);4NRX(m66 in complex with gp41 MPER peptide)	SC44		Zhu2011(21880764) 	Mutation decreases binding of m66 and m66.6	K	170		95.5721	1.41734		
+m66.6	gp41 MPER (membrane proximal external region)	4NRZ(Antibody m66.6)	SC44		Zhu2011(21880764) 	Mutation decreases binding of m66 and m66.6	K	170		60.0523	2.79623	M66.6	
+m66 G30(LC)K	gp41 MPER (membrane proximal external region)		SC44		Ofek2014(24335316) 			47		38.1883	3.21715	m66-G30K, m66 G30 LCK, m66G30 LCK, m66G30LCK	
+m66 S28(LC)H	gp41 MPER (membrane proximal external region)		SC44		Ofek2014(24335316) 			40		92.8194	1.38582	m66-S28H, m66 S28 LCH, m66S28 LCH, m66S28LCH	
+m66 S28(LC)H-G30(LC)K	gp41 MPER (membrane proximal external region)		SC44		Ofek2014(24335316) 			40		33.5914	4.54709	m66-S28H-G30K, m66 S28 LCH-G30 LCK, m66S28 LCH-G30 LCK, m66S28LCH-G30LCK	
+m66 S28(LC)H-G30(LC)K-S31(LC)K	gp41 MPER (membrane proximal external region)		SC44		Ofek2014(24335316) 			47		18.3974	4.06931	m66-S28H-G30K-S31K, m66 S28 LCH-G30 LCK-S31 LCK, m66S28 LCH-G30 LCK-S31 LCK, m66S28LCH-G30LCK-S31LCK	
+m66 S31(LC)K	gp41 MPER (membrane proximal external region)		SC44		Ofek2014(24335316) 			40		81.7427	1.64876	m66-S31K, m66 S31 LCK, m66S31 LCK, m66S31LCK	
+m66 Y100e(HC)W	gp41 MPER (membrane proximal external region)		SC44		Ofek2014(24335316) 			47		50.6663	3.78111	m66 Y100e HCW, m66Y100e HCW, m66Y100eHCW, m66-Y100eW	
+MEL-1842	gp120 CD4bs		Cow #1		Heydarchi2022(35584627) 		L	47		0.34016	108.455		The light chain gene of MEL-1842 was not rescued, so it was produced using the MEL-2129 light chain.
+MEL-1872	gp120 CD4bs		Cow #1		Heydarchi2022(35584627) 	Mutation affects binding or neutralization of MEL-1872	L	47		0.21885	113.074		The light chain gene of MEL-1872 was not rescued, so it was produced using the MEL-2129 light chain.
+MEL-2129	gp120 CD4bs		Cow #1		Heydarchi2022(35584627) 		L	46		2.89666	54.3181		
+Minimal BF520.1	gp120 V3 // V3 glycan (V3g)		BF520	BF520	Simonich2019(31097697) 		K	13				Minimal VH Minimal VK	
+N49P11	gp120 CD4bs;gp120 CD4i		N49	N49P6	Sajadi2018(29731169) 		L	117		1.19929	5.72401		
+N49P18.1	gp120 CD4bs;gp120 CD4i		N49	N49P6	Sajadi2018(29731169) 		L	117		14.146	4.03303		Unpublished N49P18.1 info via personal communication (M. Sajadi) but isolated as described in Sajadi2018 (PMID 29731169)
+N49P19	gp120 CD4bs;gp120 CD4i		N49	N49P6	Sajadi2018(29731169) 		L	117		4.97479	10.9474		Unpublished N49P19 info via personal communication (M. Sajadi) but isolated as described in Sajadi2018 (PMID 29731169)
+N49P22			N49		Sajadi2018(29731169) 			117		10.0963	11.606		Unpublished N49P22 info via personal communication (M. Sajadi) but isolated as described in Sajadi2018 (PMID 29731169)
+N49P23			N49		Sajadi2018(29731169) 			117		0.89302	40.7691		Unpublished N49P23 info via personal communication (M. Sajadi) but isolated as described in Sajadi2018 (PMID 29731169)
+N49P6	gp120 CD4bs;gp120 CD4i;quaternary structure	6OZ4(N49P6 with HIV-1 BG505 SOSIP.664 Env trimer ectodomain);6OZ2(N49P6 with HIV-1 strain 93TH057 gp120 core)	N49	N49P6	Sajadi2018(29731169) 	N49P6 contacts	L	117		0.5532	8.55265		Structural analysis from Tolbert2021 (PMID 34281393)
+N49P7	gp120 CD4bs;gp120 CD4i	6BCK(N49P7 with HIV-1 strain 93TH057 gp120 core)	N49	N49P6	Sajadi2018(29731169) 	N49P7 contacts	L	293		0.30592	8.43089		
+N49P7.1	gp120 CD4bs;gp120 CD4i		N49	N49P6	Sajadi2018(29731169) 		L	117		0.20684	5.99105		
+N49P7.2	gp120 CD4bs;gp120 CD4i		N49	N49P6	Sajadi2018(29731169) 		L	117		0.44283	11.4521		Unpublished N49P7.2 info via personal communication (M. Sajadi) but isolated as described in Sajadi2018 (PMID 29731169)
+N49P7.v2	gp120 CD4bs		N49	N49P6	Kwon2021(34328065) 		L	208		0.10327	5.71933		
+N49P9	gp120 CD4bs		N49	N49P9	Sajadi2018(29731169) 		L	117		0.28921	11.5878		
+N49P9.1	gp120 CD4bs	6OZ3(N49P9.1 with HIV-1 strain 93TH057 gp120 core)	N49	N49P9	Sajadi2018(29731169) 		L	117		0.42484	12.5522		Unpublished N49P9.1 info via personal communication (M. Sajadi) but isolated as described in Sajadi2018 (PMID 29731169)
+N6	gp120 CD4bs	5TE5(N6 in Complex with HIV-1 Clade AE Strain 93TH057 gp120 Core);5TE6(N6 in Complex with HIV-1 Clade C Strain DU172.17 gp120 Core);5TE4(N6 in Complex with HIV-1 Clade G Strain X2088 gp120 Core)	Z258		Huang2016a(27851912) 	hypervariable loop characteristic correlations with bNAb sensitivity;Mutation affects N6 neutralization;N6 alanine scanning;N6 contacts;Signature Analysis Summary	K	484		0.075376	5.93613		
+N60P1.1	gp120 CD4bs	5WB9(N60P23 with 93TH057 gp120 core (N60P23 differs from N60P1.1 by 1 AA))	N60	N60 lineage 1	Sajadi2018(29731169) 		K	73		5.85446	11.1567		Structure 5WB9 is for mAb N60P23 which differs from N60P1.1 by 1 AA
+N60P2.1	gp120 CD4bs		N60	N60 lineage 1	Sajadi2018(29731169) 		K	73		9.93875	13.3704		
+N60P22	gp120 CD4bs		N60	N60 lineage 2	Sajadi2018(29731169) 		K	73		88.7001	1.78535		
+N60P25.1	gp120 CD4bs		N60	N60 lineage 1	Sajadi2018(29731169) 		K	72		3.49384	13.6202		
+N60P30	gp120 CD4i cluster A		N60	N60 lineage 3	Sajadi2018(29731169) 		K	0					
+N60P31.1	gp120 CD4bs		N60	N60 lineage 1	Sajadi2018(29731169) 		K	73		43.0735	7.3424		
+N60P35	gp120 V3 // V3 glycan (V3g)		N60	N60 lineage 7	Sajadi2018(29731169) 		L	0					
+N60P36	gp120 CD4i CoRbs (Cluster C)		N60	N60 lineage 4	Sajadi2018(29731169) 		K	0					
+N60P37	gp120 V3 // V3 glycan (V3g)		N60	N60 lineage 7	Sajadi2018(29731169) 		L	0					
+N60P38	gp120 CD4bs		N60	N60 lineage 2	Sajadi2018(29731169) 		K	0					
+N60P39	gp120 CD4i CoRbs (Cluster C)		N60	N60 lineage 5	Sajadi2018(29731169) 		K	0					
+N60P39.1	gp120 CD4i CoRbs (Cluster C)		N60	N60 lineage 5	Sajadi2018(29731169) 		K	0					
+N60P47	gp120 CD4i CoRbs (Cluster C)		N60	N60 lineage 5	Sajadi2018(29731169) 		K	0					
+N60P48	gp120 CD4i CoRbs (Cluster C)		N60	N60 lineage 5	Sajadi2018(29731169) 		K	0					
+N60P51	gp120 CD4i CoRbs (Cluster C)		N60	N60 lineage 6	Sajadi2018(29731169) 		K	0					
+N6/10E8v4-PGDM1400	gp120 CD4bs;gp120 V2 // V2 glycan(V2g) // V2 apex;gp41 MPER (membrane proximal external region)		Donor 84,Donor N152,Z258		Xu2017(28931639) 			208		0.043305	6.74707		trispecific involving N6, PGDM1400, and 10E8
+N6-LS	gp120 CD4bs		Z258		Julg2017(28539448) 			208		0.082206	5.06056		
+N6/PGDM1400-10E8v4	gp120 CD4bs;gp120 V2 // V2 glycan(V2g) // V2 apex;gp41 MPER (membrane proximal external region)		Donor 84,Donor N152,Z258		Xu2017(28931639) 			208		0.021634	6.46792	N6-LS/PGDM1400-10E8v4	trispecific involving N6, PGDM1400, and 10E8
+NC37	quaternary structure		EB354		Freund2017(28100831) 		K	119		18.5195	15.2635	354NC37	
+NC-Cow1	gp120 CD4bs	6PW6(BG505 SOSIP.664 in complex with 3 copies of NC-Cow1 Fab);EMD-20500(BG505 SOSIP.664 in complex with 3 copies of NC-Cow1 Fab);6OO0(bovine Fab NC-Cow1);6OPA(NC-Cow1 Fab in complex with HIV-1 BG505 SOSIP.664 and human Fabs 35022 and PGT128)	Cow #26		Sok2017(28726771) 	Mutation affects NC-Cow1 binding or neutralization		140		0.52253	44.4645		
+NC-Cow10			Cow #26		Sok2017(28726771) 			23		0.46565	53.6086		
+NC-Cow2	gp120 CD4bs		Cow #26		Sok2017(28726771) 			23		0.049206	13.527		NC-Cow2 is an orphan heavy chain, paired with a germline light chain
+NC-Cow3			Cow #26		Sok2017(28726771) 			23		69.1312	2.84003		NC-Cow3 is an orphan heavy chain, paired with a germline light chain
+NC-Cow4			Cow #26		Sok2017(28726771) 			23		33.0331	11.8105		
+NC-Cow5			Cow #26		Sok2017(28726771) 			23		79.3854	2.11641		
+NC-Cow6			Cow #26		Sok2017(28726771) 			23		35.7453	9.61165		
+NC-Cow7			Cow #26		Sok2017(28726771) 			23		1.0281	62.7872		
+NC-Cow8			Cow #26		Sok2017(28726771) 			23		1.0671	43.4132		
+NC-Cow9			Cow #26		Sok2017(28726771) 			23		2.77506	21.5423		
+NIH45-46	gp120 CD4bs	5D9Q(BG505 SOSIP gp140 HIV-1 Env trimer in Complex with the Broadly Neutralizing Fab PGT122 and scFv NIH45-46);4JDT(chimeric germ-line precursor of NIH45-46 Fab in complex with gp120 (93TH057));3U7W(Fab NIH45-46);3U7Y(Fab NIH45-46 complexed with gp120);4JDV(germ-line precursor of NIH45-46 Fab);5IGX(NIH45-46 Fab germline precursor in complex with 426c.TM1deltaV1-3 gp120)	NIH45	VRC01	Scheid2011(21764753) 	hypervariable loop characteristic correlations with bNAb sensitivity;Mutations allowing binding of germline Abs;NIH45-46 contacts;NIH45-46 signature predictions;Signature Analysis Summary;Signature Analysis Summary	K	299	Yes	0.3131	15.4679	45, 45-46	
+NIH45-46G54F	gp120 CD4bs		NIH45	VRC01	Diskin2011(22033520) 		K	82		0.13264	26.3472	45-46F	
+NIH45-46G54W	gp120 CD4bs		NIH45	VRC01	Diskin2011(22033520) 	NIH45-46G54W mutations causing resistance;NIH45-46(G54W) signature predictions;Signature Analysis Summary	K	240		0.081064	45.5701	45-46W, NIH45-46 G54W, NIH45-46W	
+NIH45-46G54Y	gp120 CD4bs		NIH45	VRC01	Diskin2011(22033520) 		K	82		0.1378	23.9373	45-46Y	
+NIH45-46WPY	gp120 CD4bs		NIH45	VRC01		Signature Analysis Summary	K	118		0.026926	16.037	NIH45-46-WPY	
+NIH45-46WY	gp120 CD4bs		NIH45	VRC01		Signature Analysis Summary	K	118		0.028743	15.8862	NIH45-46-WY	
+PCDN-33A	gp120 V3 // V3 glycan (V3g)		PC76		MacLeod2016(27192579) 	Sites affecting neutralization of PCDN lineage mAbs		133		6.08665	25.6639	33A	
+PCDN-38A	gp120 V3 // V3 glycan (V3g)		PC76		MacLeod2016(27192579) 	Sites affecting neutralization of PCDN lineage mAbs	K	133		13.1102	20.1397	38A, PCDN38A	
+PCDN-38B	gp120 V3 // V3 glycan (V3g)		PC76		MacLeod2016(27192579) 	Sites affecting neutralization of PCDN lineage mAbs		133		7.50007	22.2127	38B	
+PCT64-18B	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		44.1335	8.39332	PCT64 18B	
+PCT64-18C	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		77.3056	2.91181	PCT64 18C	
+PCT64-18D	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	123		21.5607	17.099	PCT64 18D	
+PCT64-18F	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		34.8927	10.6058	PCT64 18F	
+PCT64-24A	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		44.5511	7.00016	PCT64 24A	
+PCT64-24B	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		48.978	6.20823	PCT64 24B	
+PCT64-24E	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	122		21.4424	16.4408	PCT64 24E	
+PCT64-24F	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	122		23.3356	17.7261	PCT64 24F	
+PCT64-24G	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		36.6103	9.57143	PCT64 24G	
+PCT64-24H	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		48.4913	6.57433	PCT64 24H	
+PCT64-35B	gp120 V2 // V2 glycan(V2g) // V2 apex	5FEH(PCT64_35B, a broadly neutralizing anti-HIV antibody)	PC64	PCT64	Landais2017(29166592) 		K	122		22.2694	12.2215	PCT64 35B	
+PCT64-35C	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		28.4326	12.8153	PCT64 35C	
+PCT64-35D	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	122		19.795	12.9663	PCT64 35D	
+PCT64-35E	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		27.6653	13.9691	PCT64 35E	
+PCT64-35F	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		34.1535	10.208	PCT64 35F	
+PCT64-35G	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	122		26.0402	10.2531	PCT64 35G	
+PCT64-35H	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		41.4128	6.6585	PCT64 35H	
+PCT64-35I	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		85.5159	1.92827	PCT64 35I	
+PCT64-35K	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		39.2351	9.58151	PCT64 35K	
+PCT64-35M	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	123		16.3071	19.49	PCT64 35M	
+PCT64-35N	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	37		45.7088	7.35153	PCT64 35N	
+PCT64-35O	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	122		29.9539	10.9467	PCT64 35O	
+PCT64-35S	gp120 V2 // V2 glycan(V2g) // V2 apex		PC64	PCT64	Landais2017(29166592) 		K	123		19.0401	15.5769	PCT64 35S	
+PG16	gp120 V2 // V2 glycan(V2g) // V2 apex	4DQO(Fab PG16 complexed with V1V2 region (ZM109));3MUG(PG16 Fab);3MME(Structure and functional dissection of PG16);3LRS(Structure of PG16)	Donor 24	PG9	Walker2009a(19729618) 	Disulfide bond introduced in V1V2 affects binding;Disulfide bond introduced in V1V2 affects binding and neutralization;hypervariable loop characteristic correlations with bNAb sensitivity;L184F escapes V2-targeting bnAbs;Mutation affects neutralization;Mutation affects neutralization of PGDM1400 and PG16;Mutation affects PG9-like Ab sensitivity;Mutations at the trimer apex that affect sensitivity;PG16 signature predictions;PG9-like antibodies require N160 for neutralization;PG9-like contacts;V2 Signature Analysis Summary	L	818	Yes	0.67427	39.1648		
+PG16/10-1074	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g)		Donor 17,Donor 24		Bournazos2016(27315478) 			33		0.26292	14.491		bispecific
+PG16-iMab	gp120 V2 // V2 glycan(V2g) // V2 apex;non-HIV: host CD4R		Donor 24		Pace2013a(23878231) 			134		0.0047604	15.7096	PG16-ibalizumab	bispecific
+PG16/PGT121	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g)		Donor 17,Donor 24		Bournazos2016(27315478) 			116		0.30227	19.4428		bispecific
+PG16/PGT128	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g)		Donor 24,Donor 36		Bournazos2016(27315478) 			117		0.30595	20.1815		bispecific
+PG9	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	5VJ6(BG505 SOSIP.664 in complex with PG9 and 8ANC195);3U36(Fab PG9);3U4E(Fab PG9 complexed with V1V2 region (CAP45));3U2S(Fab PG9 complexed with V1V2 region (ZM109));3MUH(PG9 light chain)	Donor 24	PG9	Walker2009a(19729618) 	Disulfide bond introduced in V1V2 affects binding;Disulfide bond introduced in V1V2 affects binding and neutralization;hypervariable loop characteristic correlations with bNAb sensitivity;L184F escapes V2-targeting bnAbs;Mutation affects neutralization;Mutation affects neutralization by V1V2 glycan mAbs;Mutation affects PG9-like Ab sensitivity;Mutations at the trimer apex that affect sensitivity;PG9 contacts;PG9 escape mutations;PG9-like antibodies require N160 for neutralization;PG9-like contacts;PG9 residue prediction;PG9 signature predictions;V2 Signature Analysis Summary	L	1017	Yes	0.86779	23.4433		
+PG9/aplaviroc	gp120 V2 // V2 glycan(V2g) // V2 apex;non-HIV: host CCR5		Donor 24		Gavrilyuk2013(23427154) 			117		0.33288	7.99799	PG9-aplaviroc	Conjugation of PG9 with aplaviroc, a small molecule that blocks CCR5.
+PG9-iMab	gp120 V2 // V2 glycan(V2g) // V2 apex;non-HIV: host CD4R		Donor 24		Pace2013a(23878231) 			141		0.0073056	8.86025	PG9-ibalizumab	bispecific
+PG9-PG16-RSH	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 24	PG9	Pancera2013(23708607) 		L	212		0.2509	50.5214	PG9-16, PG916, PG9-16-RSH	chimeric
+PGC14	gp120		Donor 24		Walker2009a(19729618) 		L	162		76.5847	2.73307		
+PGDM11	gp120 V3 // V3 glycan (V3g)		Donor 14		Sok2016(27438765) 			110		7.71323	21.8645		
+PGDM12	gp120 V3 // V3 glycan (V3g)		Donor 14		Sok2016(27438765) 			134		2.84353	33.9304		
+PGDM1400	gp120 V2 // V2 glycan(V2g) // V2 apex	4RQQ(Fab PGDM1400)	Donor 84		Sok2014(25422458) 	Disulfide bond introduced in V1V2 affects binding and neutralization;hypervariable loop characteristic correlations with bNAb sensitivity;L184F escapes V2-targeting bnAbs;Mutation affects neutralization of PGDM1400 and PG16;Mutation causes resistance to V2 bnAbs;PGDM1400 lineage requires N160;V2 Signature Analysis Summary	K	846		0.18556	61.017		
+PGDM1400-LS	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 84					208		0.13842	55.316		
+PGDM1400/PRO-140	gp120 V2 // V2 glycan(V2g) // V2 apex;non-HIV: host CCR5		Donor 84		Khan2018(29976677) 			107		0.032683	19.2107	PGDM1400fv-PRO-140fv	
+PGDM1401	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 84		Sok2014(25422458) 	PGDM1400 lineage requires N160	K	107		0.29088	116.019		
+PGDM1402	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 84		Sok2014(25422458) 	PGDM1400 lineage requires N160	K	102		10.0606	17.8356		
+PGDM1403	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 84		Sok2014(25422458) 	PGDM1400 lineage requires N160	K	98		6.3626	43.7463		
+PGDM1404	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 84		Sok2014(25422458) 	PGDM1400 lineage requires N160	K	88		8.06011	47.5202		
+PGDM1405	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 84		Sok2014(25422458) 	PGDM1400 lineage requires N160	K	98		11.3345	50.3411		
+PGDM1406	gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 84		Sok2014(25422458) 	PGDM1400 lineage requires N160	K	88		53.9685	5.52324		
+PGDM21	gp120 V3 // V3 glycan (V3g)	EMD-8182(PGDM21 in complex with BG505 SOSIP.664 trimer)	Donor 82		Sok2016(27438765) 			134		4.44153	34.488		
+PGG14	gp120		Donor 24		Walker2009a(19729618) 		L	0					
+PGT121	gp120 V3 // V3 glycan (V3g)	5CEZ(BG505 SOSIP gp140 HIV-1 Env trimer in Complex with an early putative precursor of the PGT121 family);4JY4(Fab PGT121);4FQQ(germline antibody PGT121-GL Fab);4FQ1(PGT121 Fab);4FQC(PGT121 Fab bound to a complex-type sialylated N-glycan)	Donor 17	PGT121	Walker2011(21849977) 	Disulfide bond introduced in V1V2 affects binding;hypervariable loop characteristic correlations with bNAb sensitivity;Key sites for PGT121-like and 10-1074-like mAbs;Mutation affects neutralization of V3 mAbs;Mutation greatly reduces PGT121 neutralization;Mutations at the trimer apex that affect sensitivity;PGT121-123, 125-128, 130, 131 sites important for neutralization;PGT121 contacts;PGT121 family and N137 glycan;PGT121 resistance;PGT121 signature predictions;V3 Signature Summary	L	1361	Yes	0.65073	52.8689	PGT-121	
+PGT121.414.LS	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121				208		1.16397	66.6423		
+PGT121GM	gp120 V3 // V3 glycan (V3g)		Donor 17	PGT121	Mouquet2012a(23115339) 			26		41.818	6.17672		
+PGT122	gp120 V3 // V3 glycan (V3g)	5UTF(BG505 gp140 HIV-1 Env Trimer, Containing Mutations I201C-P433C (DS), L154M, Y177W, N300M, N302M, T320L, I420M in Complex with Human Antibodies PGT122 and 35O22);4NCO(BG505 in complex with Fab PGT122);5U7M(BG505 SOSIP.664 Prefusion Env Trimer Bound to Small Molecule HIV-1 Entry Inhibitor BMS-378806 in Complex with Human Antibodies PGT122 and 35O22);5U7O(BG505 SOSIP.664 Prefusion Env Trimer Bound to Small Molecule HIV-1 Entry Inhibitor BMS-626529 in Complex with Human Antibodies PGT122 and 35O22);5I8H(BG505 SOSIP.664 Prefusion Env Trimer in Complex with PGT122 Fab and VRC34.01 Fab);5D9Q(BG505 SOSIP gp140 HIV-1 Env trimer in Complex with the Broadly Neutralizing Fab PGT122 and scFv NIH45-46);5FYL(Clade A BG505 SOSIP.664 Prefusion Env Trimer in Complex with PGT122 and 35O22);5FYJ(Clade G X1193.c1 SOSIP.664 Prefusion Env Trimer in Complex with PGT122, 35O22 and VRC01);5UTY(DS-SOSIP.mut4 BG505 gp140 HIV-1 Env Trimer, Containing Mutations I201C-P433C (DS), L154M, N300M, N302M, T320L in Complex with Human Antibodies PGT122 and 35O22);4TVP(Env Trimer Ectodomain in Complex with Antibodies PGT122 and 35O22);4JY5(Fab PGT122);5FYK(SOSIP.664 Prefusion Env Trimer in Complex with PGT122, 35O22 and VRC01);6CUE(vFP7.04 in complex with BG505 DS-SOSIP, and antibodies VRC03 and PGT122)	Donor 17	PGT121	Walker2011(21849977) 	Mutations at the trimer apex that affect sensitivity;PGT121-123, 125-128, 130, 131 sites important for neutralization;PGT121 family and N137 glycan;PGT122 glycan contacts;PGT122 neutralization	L	164		1.2886	45.8654	PGT-122	
+PGT123	gp120 V3 // V3 glycan (V3g)	4JY6(Fab PGT123)	Donor 17	PGT121	Walker2011(21849977) 	Mutation greatly reduces PGT123 neutralization;Mutations at the trimer apex that affect sensitivity;PGT121-123, 125-128, 130, 131 sites important for neutralization;PGT121 family and N137 glycan;V3 Signature Analysis Summary	L	290		0.99835	65.0371	PGT-123	
+PGT124	gp120 V3 // V3 glycan (V3g)	4R2G(PGT124 Fab bound to HIV-1 JRCSF gp120 core and to CD4);5UM8(trimer 16055 NFL TD CC (T569G) in complex with Fabs 35022 and PGT124);5T3S(trimer MD39-10MUTA in complex with Fabs PGT124 and 35022)	Donor 17	PGT121	Walker2011(21849977) 	PGT121 family and N137 glycan	L	86		0.14027	19.4097	PGT-124	
+PGT125	gp120 V3 // V3 glycan (V3g)		Donor 36	PGT128	Walker2011(21849977) 	Mutation greatly reduces PGT125 neutralization;Mutations at the trimer apex that affect sensitivity;PGT121-123, 125-128, 130, 131 sites important for neutralization;V3 Signature Analysis Summary	L	273		3.1199	60.4455	PGT-125	
+PGT126	gp120 V3 // V3 glycan (V3g)		Donor 36	PGT128	Walker2011(21849977) 	Mutation greatly reduces PGT126 and PGT127 neutralization;Mutations at the trimer apex that affect sensitivity;PGT121-123, 125-128, 130, 131 sites important for neutralization;V3 Signature Analysis Summary	L	434	Yes	0.94013	46.6816	PGT-126	
+PGT127	gp120 V3 // V3 glycan (V3g)	3TWC(PGT127 complexed with Man(9))	Donor 36	PGT128	Walker2011(21849977) 	Mutation greatly reduces PGT126 and PGT127 neutralization;PGT121-123, 125-128, 130, 131 sites important for neutralization;PGT127, PGT128 contacts;V3 Signature Analysis Summary	L	272		4.87851	37.5113	PGT-127	
+PGT128	gp120 V3 // V3 glycan (V3g)	5C7K(BG505 SOSIP gp140 HIV-1 Env trimer bound to broadly neutralizing antibodies PGT128 and 8ANC195);6OPA(bovine Fab NC-Cow1 in complex with BG505 SOSIP.664 and human Fabs 35022 and PGT128);5JSA(gp140 trimer with an engineered 10-residue HR1 turn bound to 8ANC195 and PGT128);5JS9(gp140 trimer with an engineered 8-residue HR1 turn bound to 8ANC195 and PGT128);3TYG(PGT128 complexed with glycosylated gp120);3TV3(PGT128 complexed with Man(9));5ACO(PGT128 Fab in complex with BG505 SOSIP.664 Env trimer);6B3D(PGT128 in complex with a bacterially derived synthetic mimetic of Man9)	Donor 36	PGT128	Walker2011(21849977) 	hypervariable loop characteristic correlations with bNAb sensitivity;Mutation affects neutralization of V3 mAbs;Mutation greatly reduces PGT128 neutralization;Mutations at the trimer apex that affect sensitivity;PGT121-123, 125-128, 130, 131 sites important for neutralization;PGT127, PGT128 contacts;PGT128 contacts;PGT128 contacts with BG505 SOSIP.664 Env trimer (PDB 5ACO);V3 Signature Analysis Summary	L	726		0.84397	59.8929	PGT-128	
+PGT128-IgG3C-	gp120 V3 // V3 glycan (V3g)		Donor 36	PGT128	Bournazos2016(27315478) 			116		0.84187	53.0508		IgG3C hinge variant
+PGT130	gp120 V3 // V3 glycan (V3g)		Donor 36	PGT128	Walker2011(21849977) 	Mutation greatly reduces PGT130 neutralization;Mutations at the trimer apex that affect sensitivity;PGT121-123, 125-128, 130, 131 sites important for neutralization;V3 Signature Analysis Summary	L	308		3.16688	36.2058	PGT-130	
+PGT131	gp120 V3 // V3 glycan (V3g)		Donor 36	PGT128	Walker2011(21849977) 	PGT121-123, 125-128, 130, 131 sites important for neutralization	L	162		11.0186	21.2576	PGT-131	
+PGT135	gp120 V3 // V3 glycan (V3g)	4JM4(Fab PGT135);4JM2(PGT 135 Fab in complex with gp120 core (JR-FL) bound to CD4 and 17b Fab)	Donor 39	PGT135	Walker2011(21849977) 	Mutation greatly reduces PGT135 neutralization;Mutations at the trimer apex that affect sensitivity;PGT135 contacts and sites;V3 Signature Analysis Summary	K	510		14.8308	19.4218	PGT-135	
+PGT135-IgG3C-	gp120 V3 // V3 glycan (V3g)		Donor 39	PGT135	Bournazos2016(27315478) 			119		19.8045	16.7842		IgG3C hinge variant
+PGT136	gp120 V3 // V3 glycan (V3g)		Donor 39	PGT135	Walker2011(21849977) 		K	164		54.5814	5.82733	PGT-136	
+PGT137	gp120 V3 // V3 glycan (V3g)		Donor 39	PGT135	Walker2011(21849977) 		K	162		40.3483	8.18728	PGT-137	
+PGT141	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		Donor 84	PGT145	Walker2011(21849977) 	Mutation affects PG9-like Ab sensitivity;PG9-like contacts	K	186		4.13098	34.5902	PGT-141	
+PGT142	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		Donor 84	PGT145	Walker2011(21849977) 	hypervariable loop characteristic correlations with bNAb sensitivity;V2 Signature Analysis Summary;V2 Signature Analysis Summary	K	344		1.78526	70.1417	PGT-142	
+PGT143	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	5UXQ(Structure of PGT143)	Donor 84	PGT145	Walker2011(21849977) 	Mutation causes resistance to V2 bnAbs;Mutation greatly reduces PGT143 neutralization;V2 Signature Analysis Summary	K	274		3.55651	38.5754	PGT-143	
+PGT144	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	5UY3(Structure of human Fab PGT144)	Donor 84	PGT145	Walker2011(21849977) 		K	162		20.9877	10.5939	PGT-144	
+PGT145	gp120 V2 // V2 glycan(V2g) // V2 apex	5U1F(BG505 DS-SOSIP trimer in complex with CD4 and antibody PGT145);5V8L(BG505 SOSIP.664 trimer in complex with 3BNC117 and PGT145);3U1S(Fab PGT145);6NIJ(PGT145 Fab in complex with full length AMC011 Env)	Donor 84	PGT145	Walker2011(21849977) 	Disulfide bond introduced in V1V2 affects binding and neutralization;hypervariable loop characteristic correlations with bNAb sensitivity;L184F escapes V2-targeting bnAbs;Mutation affects neutralization by V1V2 glycan mAbs;Mutation affects PG9-like Ab sensitivity;Mutation causes resistance to V2 bnAbs;Mutation greatly reduces PGT145 neutralization;PG9-like antibodies require N160 for neutralization;PG9-like contacts;PGT145 contacts;PGT145 epitope;PGT145 escape mutations;Signature Analysis Summary;V2 Signature Analysis Summary	K	748		0.96985	39.8068	PGT-145	
+PGT151	fusion peptide // near gp41-gp120 interface	4NUG(Antibody PGT151);EMD-0620(Full length HIV-1 Envelope glycoprotein AMC011 in complex with PGT151 Fab and PGZL1 Fab);5FUU(JR-FL EnvdCT trimer in complex with PGT151 Fab);6DCQ(Wild type HIV-1 glycoprotein PC64M18C043 in complex with PGT151 Fab)	Donor 31		Falkowska2014(24768347) 	Mutation affects PGT151 neutralization;Mutation affects VRC01, PGT151, and 2G12 binding;PGT151-PGT158 sites of interaction	K	316	Yes	0.23202	79.9071	PGT-151	
+PGT151/10-1074-IgG3C-	fusion peptide // near gp41-gp120 interface;gp120 V3 // V3 glycan (V3g)		Donor 17,Donor 31		Bournazos2016(27315478) 			119		0.12608	23.6649		bispecific; IgG3C hinge variant
+PGT151/35O22	fusion peptide // near gp41-gp120 interface;gp41-gp120 interface		Donor 31,Donor N152		Bournazos2016(27315478) 			120		1.18454	26.2946		bispecific
+PGT151-IgG3C-	fusion peptide // near gp41-gp120 interface		Donor 31		Bournazos2016(27315478) 			119		0.42059	65.6104		IgG3C hinge variant
+PGT152	fusion peptide // near gp41-gp120 interface	4NUJ(Antibody PGT152)	Donor 31		Falkowska2014(24768347) 	PGT151-PGT158 sites of interaction	K	116	Yes	0.47199	75.5425	PGT-152	
+PGT153	gp41		Donor 31		Falkowska2014(24768347) 	PGT151-PGT158 sites of interaction	K	25		6.87459	34.5845	PGT-153	
+PGT154	gp41		Donor 31		Falkowska2014(24768347) 	PGT151-PGT158 sites of interaction	K	25		4.0906	44.6074	PGT-154	
+PGT155	gp41		Donor 31		Falkowska2014(24768347) 	PGT151-PGT158 sites of interaction	K	25		4.88956	47.1451	PGT-155	
+PGT156	gp41		Donor 31		Falkowska2014(24768347) 	PGT151-PGT158 sites of interaction	K	25		3.83441	62.2493	PGT-156	
+PGT157	gp41		Donor 31		Falkowska2014(24768347) 	PGT151-PGT158 sites of interaction	K	25		9.82692	30.9537	PGT-157	
+PGT158	gp41		Donor 31		Falkowska2014(24768347) 	PGT151-PGT158 sites of interaction	K	25		4.88464	50.9387	PGT-158	
+PGZL1	gp41 MPER (membrane proximal external region)	6O3D(Fab fragment of PGZL1);6O3G(Fab fragment of PGZL1 in complex with its MPER peptide epitope);6O3J(Fab fragment of PGZL1 in complex with its MPER peptide epitope and phosphatidic acid);EMD-0620(Full length HIV-1 Envelope glycoprotein AMC011 in complex with PGT151 Fab and PGZL1 Fab)	PG13	PGZL1	Zhang2019a(31772165) 	Mutation affects neutralization by PGZL1, H4K3, or 4E10;PGZL1 contacts	K	130		9.59677	6.16393		
+PGZL1_gVmDmJ	gp41 MPER (membrane proximal external region)	6O42(germline PGZL1 (PGZL1_gVmDmJ) Fab in complex with MPER peptide epitope);6O41(PGZL1 germline Fab fragment PGZL1_gVmDmJ)	PG13	PGZL1	Zhang2019a(31772165) 		K	130		75.6029	2.38435	PGZL1 gVmDmJ	
+PGZL1.H4K3	gp41 MPER (membrane proximal external region)	6O3K(Fab fragment of PGZL1.H4K3);6O3U(Fab fragment of PGZL1.H4K3 in complex with 06:0 PA);6O3L(Fab fragment of PGZL1.H4K3 in complex with its MPER peptide epitope)	PG13	PGZL1	Zhang2019a(31772165) 	Mutation affects neutralization by PGZL1, H4K3, or 4E10	K	130		1.4267	4.66656	H4K3	
+polyclonal 391370	gp120 CD4bs		391370		Barnes2022(35960796) 			21		90.2876	1.2914		
+polyclonal AIIMS_329 102mo			AIIMS_329		Mishra2019(31217240) 			43					
+polyclonal AIIMS_329 112mo			AIIMS_329		Mishra2019(31217240) 			45					
+polyclonal AIIMS_329 117mo			AIIMS_329		Mishra2019(31217240) 			45					
+polyclonal AIIMS_329 124mo			AIIMS_329		Mishra2019(31217240) 			43					
+polyclonal AIIMS_329 131mo			AIIMS_329		Mishra2019(31217240) 			43					
+polyclonal AIIMS_329 138mo			AIIMS_329		Mishra2019(31217240) 			43					
+polyclonal AIIMS_329 78mo			AIIMS_329		Mishra2019(31217240) 			43					
+polyclonal AIIMS_329 82mo			AIIMS_329		Mishra2019(31217240) 			43					
+polyclonal AIIMS_329 90mo			AIIMS_329		Mishra2019(31217240) 			45					
+polyclonal AIIMS_330 102mo			AIIMS_330		Mishra2019(31217240) 			43					
+polyclonal AIIMS_330 112mo			AIIMS_330		Mishra2019(31217240) 			46					
+polyclonal AIIMS_330 117mo			AIIMS_330		Mishra2019(31217240) 			47					
+polyclonal AIIMS_330 124mo			AIIMS_330		Mishra2019(31217240) 			43					
+polyclonal AIIMS_330 131mo			AIIMS_330		Mishra2019(31217240) 			43					
+polyclonal AIIMS_330 138mo			AIIMS_330		Mishra2019(31217240) 			43					
+polyclonal AIIMS_330 78mo			AIIMS_330		Mishra2019(31217240) 			43					
+polyclonal AIIMS_330 82mo			AIIMS_330		Mishra2019(31217240) 			43					
+polyclonal AIIMS_330 90mo			AIIMS_330		Mishra2019(31217240) 			45					
+polyclonal AIIMS704			AIIMS704		Mishra2020a(32879304) 			12					
+polyclonal AIIMS706			AIIMS706		Mishra2020a(32879304) 			12					
+polyclonal AIIMS709			AIIMS709		Mishra2020a(32879304) 			12					
+polyclonal AIIMS731			AIIMS731		Mishra2020(32669335) 			18					
+polyclonal AIIMS743			AIIMS743		Mishra2020a(32879304) 			12					
+polyclonal BF520	gp120 V3 // V3 glycan (V3g)		BF520		Simonich2016(27345369) 			34					
+polyclonal CAP206	gp41 MPER (membrane proximal external region)		CAP206		Gray2009a(19692477) 			34					
+polyclonal CAP248	fusion peptide // near gp41-gp120 interface		CAP248		Wibmer2017(28076415) 			35					
+polyclonal CAP256 Year1			CAP256		Moore2011(21270156) 			31				CAP256 plasma wk59	
+polyclonal CAP256 Year2			CAP256		Moore2011(21270156) 			31				CAP256 plasma wk106	
+polyclonal CAP256 Year3			CAP256		Moore2011(21270156) 			31				CAP256 plasma wk159	
+polyclonal CAP256 Year4			CAP256		Moore2011(21270156) 			31				CAP256 plasma wk220	
+polyclonal CBJC438 3/2008			CBJC438		Kumar2020(32938661) 			12					
+polyclonal CBJC515 2005			CBJC515		Li2016(26671829) 			51					
+polyclonal CBJC515 2006			CBJC515		Hu2021(33805985) 			28					
+polyclonal CBJC515 2008	gp120 CD4bs		CBJC515		Hu2021(33805985) 			28					
+polyclonal CH0457 wk8			CH0457		Moody2015(26355218) 			47					
+polyclonal CH0457 wk96			CH0457		Moody2015(26355218) 			39					
+polyclonal Cow26 d238			Cow #26		Sok2017(28726771) 			117					
+polyclonal Cow26 d381			Cow #26		Sok2017(28726771) 			117					
+polyclonal Cow26 d42			Cow #26		Sok2017(28726771) 			117					
+polyclonal Cow26 d77			Cow #26		Sok2017(28726771) 			117					
+polyclonal Donor 17			Donor 17		Walker2011(21849977) 			162					
+polyclonal Donor 24			Donor 24		Walker2009a(19729618) 			162					
+polyclonal Donor 27845			27845		Schoofs2019(31126879) 			31		84.0426	1.28112		
+polyclonal Donor 31			Donor 31		Walker2010(20700449) 			25					
+polyclonal Donor 36			Donor 36		Walker2011(21849977) 			162					
+polyclonal Donor 39			Donor 39		Walker2011(21849977) 			162					
+polyclonal Donor 74			Donor 74		Zhou2018(29548671) 			22					
+polyclonal Donor 84			Donor 84		Walker2011(21849977) 			162					
+polyclonal DRVI01 2005-07			DRVI01		Kong2016(27067056) 			63				polyclonal DRVI01 7/2005	
+polyclonal DRVI01 2005-10			DRVI01		Kong2016(27067056) 			63				polyclonal DRVI01 10/2005	
+polyclonal DRVI01 2006-04			DRVI01		Kong2016(27067056) 			63				polyclonal DRVI01 4/2006	
+polyclonal DRVI01 2006-11			DRVI01		Kong2016(27067056) 			37				polyclonal DRVI01 11/2006	
+polyclonal DRVI01 2007-04			DRVI01		Kong2016(27067056) 			37				polyclonal DRVI01 4/2007	
+polyclonal DRVI01 2008-03			DRVI01		Kong2016(27067056) 			63				polyclonal DRVI01 3/2008	
+polyclonal DRVI01 2008-12			DRVI01		Kong2016(27067056) 			37				polyclonal DRVI01 12/2008	
+polyclonal DRVI01 2009-05			DRVI01		Kong2016(27067056) 			37				polyclonal DRVI01 5/2009	
+polyclonal DRVI01 2009-12			DRVI01		Kong2016(27067056) 			63				polyclonal DRVI01 12/2009	
+polyclonal EB179	gp120 CD4bs		EB179		Freund2015(26516768) 			14		79.9672	1.54648		
+polyclonal IDC561			IDC561		Schommers2020(32004464) 			38		56.2654	1.93335		
+polyclonal N152			Donor N152		Huang2012(22192629) 			177					
+polyclonal NIH45			NIH45		Wu2010(20616233) 			139		73.2555	1.74608		
+polyclonal Patient 1			Patient 1		Scheid2011(21764753) 			21		79.7209	1.6126		
+polyclonal Patient 12			Patient 12		Scheid2011(21764753) 			6					
+polyclonal Patient 3			Patient 3		Scheid2011(21764753) 			38		65.8404	2.00908		
+polyclonal Patient 8			Patient 8		Scheid2011(21764753) 			21		59.3104	2.33271		
+polyclonal PC64-M35			PC64		Landais2017(29166592) 			123					
+polyclonal pt7 IgA			pt7		Lorin2022(35230385) 			24		61.5825	3.41285		
+polyclonal pt7 IgG			pt7		Lorin2022(35230385) 			24		59.3504	3.30053		
+polyclonal QA013	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		QA013		Williams2018(29669274) 			33					
+polyclonal R1			R1		Gristick2016(27617431) 			18		70.0696	1.84216		
+PRO-140	non-HIV: host CCR5				Olson1999(10196311) 			106		0.33411	4.05364	P140, PA14, PRO 140	
+PRO-140/PGDM1400/PGT121	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);non-HIV: host CCR5		Donor 17,Donor 84		Khan2018(29976677) 			105		0.054149	16.0618	PRO140Fab-PGDM1400fv-PGT121fv	trispecific
+QA013.19	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		QA013		Williams2018(29669274) 		L	19		37.6701	5.78481		
+QA013.2	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		QA013		Williams2018(29669274) 		L	33		10.861	16.0538		
+QA013.3	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		QA013		Williams2018(29669274) 		L	19		34.6598	10.6183		
+QA013.32	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		QA013		Williams2018(29669274) 		L	19		30.6613	8.13293		
+QA013.4	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		QA013		Williams2018(29669274) 		L	19		31.8265	7.69202		
+QA013.53	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		QA013		Williams2018(29669274) 		L	18		29.6894	12.3924		
+QA255.087			QA255		Williams2015(26629541) 		K	9	No				
+QA255.105	gp120 V3 // V3 glycan (V3g)		QA255		Williams2015(26629541) 		K	9	Yes				
+QA255.157	gp120 CD4i cluster A		QA255		Williams2015(26629541) 		K	0	Yes				
+QA255.187			QA255		Williams2015(26629541) 		K	9	No				
+QA255.253	gp120 CD4i cluster A		QA255		Williams2015(26629541) 		K	0	Yes				
+RoAb13	non-HIV: host CCR5				Ji2007(17166600) 			106		0.30728	9.45136	ROAb13	
+RoAb13/PGDM1400/PGT121	gp120 V2 // V2 glycan(V2g) // V2 apex;gp120 V3 // V3 glycan (V3g);non-HIV: host CCR5		Donor 17,Donor 84		Khan2018(29976677) 			107		0.094815	24.9301	RoAb13Fab-PGDM1400fv-PGT121fv	
+RoAb13/PRO-140	non-HIV: host CCR5				Khan2018(29976677) 			106		0.2401	2.55389	RoAb13/PRO 140	bispecific
+sCD4		1CDJ(glycoprotein CD4);1GC1(gp120 core complexed with CD4 and 17b);1G9M(gp120 (HXB2) complexed with CD4 and 17b);1RZJ(gp120 (HXB2) complexed with CD4 and 17b);2NY5(gp120 (M95W, W96C, I109C, T257S, V275C, S334A, S375W, Q428C, A433M) complexed with CD4 and 17b);2NY0(gp120 (M95W, W96C, T257S, V275C, S334A, S375W, A433M) complexed with CD4 and 17b);2NXY(gp120 (S334A) complexed with CD4 and 17b);1RZK(gp120 (YU2) complexed with CD4 and 17b);1G9N(gp120 (YU2) complexed with CD4 and 17b)						459		7.30769	5.01651		
+SF10	gp120 silent face		27845	SF12	Schoofs2019(31126879) 		K	31		3.33066	43.1113		
+SF12	gp120 silent face	EMD-20100(B41 SOSIP.664 in complex with SF12 and 10-1074);EMD-20101(B41 SOSIP.664 trimer in complex with 2 Fab fragments of SF12 and 1 Fab fragment of 10-1074);6OKQ(SF12 Fab);6OKP(SOSIP.664 in complex with SF12 and 10-1074)	27845	SF12	Schoofs2019(31126879) 	SF12 interaction sites	K	138		2.12886	26.5461		
+SF2	gp120 silent face		27845	SF12	Schoofs2019(31126879) 		K	31		21.2102	16.2415	SF02	
+SF3	gp120 silent face		27845	SF12	Schoofs2019(31126879) 		K	31		16.7942	20.2421	SF03	
+SF5	gp120 silent face		27845	SF12	Schoofs2019(31126879) 		K	138		3.17704	30.2375	SF05	
+SF7	gp120 silent face		27845	SF12	Schoofs2019(31126879) 		K	31		16.1502	21.7268	SF07	
+SF8	gp120 silent face		27845	SF12	Schoofs2019(31126879) 		K	31		21.3329	17.876	SF08	
+Tri-NAb	gp120 CD4bs;gp120 V3 // V3 glycan (V3g);gp41 MPER (membrane proximal external region)		Donor 17,Donor N152,NIH45		Steinhardt2018(29491415) 			208		0.071679	6.29224		trispecific involving VRC01, PGT121, and 10E8
+vFP1.01	gp41 fusion domain	5TKJ(vFP1.01 in complex with HIV-1 fusion peptide residue 512-519)	1868		Xu2018(29867235) 	Mutation reduces binding/neutralization of fusion peptide mAbs		208		78.9308	2.30044	1868-vFP1.01	mouse Ab
+vFP16.02	gp41 fusion domain	6CDO(vFP16.02 in complex with HIV-1 fusion peptide residue 512-519)	2712		Xu2018(29867235) 	Mutation reduces binding/neutralization of fusion peptide mAbs		208		37.5988	5.70298	2712-vFP16.02	mouse Ab
+vFP20.01	gp41 fusion domain	6CDP(vFP20.01 in complex with HIV-1 fusion peptide residue 512-519)	2716		Xu2018(29867235) 	Mutation reduces binding/neutralization of fusion peptide mAbs		208		44.3829	4.52989	2716-vFP20.01	mouse Ab
+vFP5.01	gp41 fusion domain	5TKK(vFP5.01 in complex with HIV-1 fusion peptide residue 512-519)	1868		Xu2018(29867235) 	Mutation reduces binding/neutralization of fusion peptide mAbs		208		98.4733	1.14622	1868-vFP5.01	mouse Ab
+vFP7.04	gp41 fusion domain	6CUE(vFP7.04 in complex with BG505 DS-SOSIP, and antibodies VRC03 and PGT122);6CDM(vFP7.04 in complex with HIV-1 fusion peptide residue 512-519)	2586		Xu2018(29867235) 	Mutation reduces binding/neutralization of fusion peptide mAbs		208		78.8731	2.2905	2586-vFP7.04	mouse Ab
+vFP7.05	gp41 fusion domain		2586		Xu2018(29867235) 	Mutation reduces binding/neutralization of fusion peptide mAbs		208		83.1511	2.09128	2586-vFP7.05	mouse Ab
+VRC01	gp120 CD4bs	6NNF(BG505 SOSIP.664 Prefusion Env Trimer Bound to VRC01 FR3-03 scFv in Complex with Crystallization Chaperones 3H109L Fab and 35O22 scFv);5FYJ(Clade G X1193.c1 SOSIP.664 Prefusion Env Trimer in Complex with PGT122, 35O22 and VRC01);4JPI(Fab VRC01 germline precursor);6MYY(Germline VRC01 antibody recognition of a modified clade C envelope trimer);5KZC(gp120 engineered outer domain with a Man9 glycan at position N276, in complex with VRC01);5FYK(SOSIP.664 Prefusion Env Trimer in Complex with PGT122, 35O22 and VRC01);3NGB(VRC01 complexed with gp120);4LSS(VRC01 complexed with gp120 (KER2008));4LST(VRC01 complexed with gp120 (ZM176));4JPK(VRC01 germline precursor Fab complexed with gp120 outer domain)	NIH45	VRC01	Wu2010(20616233) 	Electrostatic interactions with D368;hypervariable loop characteristic correlations with bNAb sensitivity;Mutation abrogates BG24 OR VRC01 neutralization;Mutation affects neutralization;Mutation affects PGV04, b12, VRC01, CD4-IgG neutralization;Mutation affects VRC01 neutralization;Mutation affects VRC01, PGT151, and 2G12 binding;Mutation decreases binding to CD4BS mAbs;Mutations allowing binding of germline Abs;Mutations associated with immunotherapy with BG24 or VRC01;Neutralization of Env 426c and its glycan-deleted mutant by CD4BS Abs;Removal of glycosylation sites confers binding to germline-reverted NIH45-46 and VRC01;Sequence changes after immunotherapy with VRC01;Signature Analysis Summary;VRC01 alanine scanning;VRC01 contacts;VRC01 residue prediction;VRC01 signature predictions	K	1325	Yes	0.86674	9.94655	VRC01 d45, VRC-HIVMAB060-00-AB	
+VRC01-0fH/0fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		100	1		
+VRC01.23LS	gp120 CD4bs	6VI0(VRC01.23 in complex with HIV-1 Env BG505 DS.SOSIP);EMD-21208(VRC01.23 in complex with HIV-1 Env BG505 DS.SOSIP)	NIH45	VRC01	Kwon2021(34328065) 	VRC01.23LS primary contacts	K	208		0.058173	7.34675		
+VRC01-30fH/10fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		0.116	6.59213		
+VRC01-30fH/19fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		0.24418	6.15972		
+VRC01-5fH/0fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		48.8246	6.57282		
+VRC01-5fH/10fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		0.47302	7.52701		
+VRC01-5fH/6fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		0.4139	9.21114		
+VRC01-8fH/10fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		0.48875	8.77056		
+VRC01-8fH/19fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		0.95145	7.28841		
+VRC01-8fH/6fL	gp120 CD4bs		NIH45	VRC01	Georgiev2014(24391217) 			21		0.86517	7.89262		
+VRC01b	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01c	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01d	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01e	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01-E16A(HC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC01-E28T(HC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC01f	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01g	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01h	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01H-DRVIA7L	gp120 CD4bs		DRVI01,NIH45		Kong2016(27067056) 		K	37		92.7804	1.5677	VRC01H+ DRVIA7L	
+VRC01i	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC01-I21L(LC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC01-LS	gp120 CD4bs		NIH45	VRC01	Ko2014(25119033) 		K	208	Yes	0.46537	9.01353	VRC01LS	
+VRC01-N73T(LC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC01-P63K(HC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC01/PGDM1400-10E8v4	gp120 CD4bs;gp120 V2 // V2 glycan(V2g) // V2 apex;gp41 MPER (membrane proximal external region)		Donor 84,Donor N152,NIH45		Xu2017(28931639) 			208		0.039266	9.30439	SAR-441236, SAR441236, VRC01-LS/PGDM1400-10E8v4	trispecific involving VRC01, PGDM1400, and 10E8
+VRC01 UCA	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	14		100	1		
+VRC01-W68S(LC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC01-Y28S(LC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC01-Y72F(LC)	gp120 CD4bs		NIH45	VRC01	Wiehe2018(29861171) 		K	3					
+VRC02	gp120 CD4bs		NIH45	VRC01	Wu2010(20616233) 	VRC02 signature predictions	K	213		0.52135	8.81276		
+VRC03	gp120 CD4bs	EMD-8981(2G12 bound to HIV-1 Env BG505 DS-SOSIP which was also bound to VRC03);6E5P(2G12 bound to HIV-1 Env BG505 DS-SOSIP, which was also bound to VRC03);5JXA(Ligand-free VRC03 antigen-binding fragment);6CUE(vFP7.04 in complex with BG505 DS-SOSIP, and antibodies VRC03 and PGT122);3SE8(VRC03 complexed with gp120);5JOF(VRC03 gHVgLV antigen-binding fragment)	NIH45	VRC01 (VRC03+06 sublineage)	Wu2010(20616233) 	Altered glycosylation affects neutralization by CD4BS bnAbs;Neutralization of Env 426c and its glycan-deleted mutant by CD4BS Abs;Signature Analysis Summary;VRC03 contacts;VRC03 signature predictions	K	374		6.45245	21.9965	VRC03 d45	
+VRC03b	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12				VRC03b	
+VRC03d	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12				VRC03d	
+VRC03f	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12				VRC03f	
+VRC03g	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12				VRC03g	
+VRC03h	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12				VRC03h	
+VRC03i	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12				VRC03i	
+VRC06	gp120 CD4bs	4JB9(VRC06 in complex with HIV-1 gp120 core)	NIH45	VRC01 (VRC03+06 sublineage)	Li2012(22875963) 		K	189		23.8065	9.61119		
+VRC06b	gp120 CD4bs	4XNZ(VRC06B in complex with HIV-1 clade A/E strain 93TH057 gp120)	NIH45	VRC01 (VRC03+06 sublineage)	Li2012(22875963) 	Signature Analysis Summary	K	236		9.88935	19.7585	VRC06b	
+VRC06c	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12					
+VRC06d	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12					
+VRC06e	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12					
+VRC06f	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12					
+VRC06g	gp120 CD4bs		NIH45	VRC01 (VRC03+06 sublineage)	Wu2015(25865483) 		K	12					
+VRC07	gp120 CD4bs	4OLV(VRC07-G54F in complex with 93TH057 gp120);4OLW(VRC07-G54H in complex with 93TH057 gp120);4OLX(VRC07-G54L in complex with 93TH057 gp120);4OLY(VRC07-G54R in complex with 93TH057 gp120);4OLZ(VRC07-G54W in complex with 93TH057 gp120);4OM0(VRC07-G54Y in complex with 93TH057 gp120);4OM1(VRC07-I30Q, G54W, S58N in complex with 93TH057 gp120);4OLU(VRC07 in complex with 93TH057 gp120)	NIH45	VRC01	Rudicell2014(25142607) 	hypervariable loop characteristic correlations with bNAb sensitivity;Neutralization of Env 426c and its glycan-deleted mutant by CD4BS Abs;Signature Analysis Summary	K	399		0.29019	10.5786		
+VRC07-501-LS	gp120 CD4bs		NIH45	VRC01	Rudicell2014(25142607) 		K	179		0.058126	10.6101		
+VRC07-508-LS	gp120 CD4bs		NIH45	VRC01	Rudicell2014(25142607) 		K	179		0.069271	14.2131		
+VRC07-523-F54-LS.v3	gp120 CD4bs		NIH45	VRC01	Kwon2021(34328065) 		K	208		0.035973	6.70863		
+VRC07-523-LS	gp120 CD4bs		NIH45	VRC01	Rudicell2014(25142607) 	hypervariable loop characteristic correlations with bNAb sensitivity;Signature Analysis Summary;Signature Analysis Summary	K	411		0.082334	8.95176	VRC07-523, VRC07-523LS	
+VRC07-523-W54-LS.v3	gp120 CD4bs		NIH45	VRC01	Kwon2021(34328065) 		K	207		0.030373	6.21709		
+VRC07-544-LS	gp120 CD4bs		NIH45	VRC01	Rudicell2014(25142607) 		K	179		0.074032	10.9016		
+VRC07b	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC07c	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC07d	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC07e	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC07f	gp120 CD4bs		NIH45	VRC01	Wu2015(25865483) 		K	12					
+VRC07xPG9-16	gp120 CD4bs;gp120 V2 // V2 glycan(V2g) // V2 apex		Donor 24,NIH45		Asokan2015(26446600) 			22		0.025853	26.973		bispecific
+VRC08	gp120 CD4bs	4XMP(VRC08 in complex with HIV-1 clade A strain Q842.d12 gp120)	NIH45	VRC01 (VRC08 sublineage)	Wu2015(25865483) 		K	203		0.25167	11.6464		
+VRC08c	gp120 CD4bs		NIH45	VRC01 (VRC08 sublineage)	Wu2015(25865483) 		K	12					
+VRC08d	gp120 CD4bs		NIH45	VRC01 (VRC08 sublineage)	Wu2015(25865483) 		K	12					
+VRC08e	gp120 CD4bs		NIH45	VRC01 (VRC08 sublineage)	Wu2015(25865483) 		K	12					
+VRC08H/UCAL	gp120 CD4bs		NIH45	VRC01	Bonsignori2018(30552024) 		K	14		9.66349	10.9214	VRC08H/UCAL	chimeric: VRC08 HC with VRC01-UCA LC
+VRC13	gp120 CD4bs	4YDJ(44-VRC13.01 in complex with HIV-1 clade AE strain 93TH057 gp120)	44		Zhou2015(26004070) 	Signature Analysis Summary;VRC13 contacts	L	400		0.7001	21.6859	44-VRC13.01, VRC13.01	
+VRC16	gp120 CD4bs	4YDK(C38-VRC16.01 in complex with HIV-1 clade AE strain 93TH057 gp120)	C38		Zhou2015(26004070) 	Signature Analysis Summary;VRC16 contacts;VRC16 contacts	K	242		10.1831	11.4287	C38-VRC16.01, VRC16.01	
+VRC18	gp120 CD4bs	4YDL(C38-VRC18.02 in complex with HIV-1 clade AE strain 93TH057 gp120)	C38		Zhou2015(26004070) 	VRC18 contacts	K	175		4.60778	12.1397	C38-VRC18.02, VRC18.02	
+VRC21.01	gp120 V3 // V3 glycan (V3g)		N170	VRC21	Longo2016(27654288) 		L	28		50.5423	6.41227		
+VRC21.02	gp120 V3 // V3 glycan (V3g)		N170	VRC21	Longo2016(27654288) 		L	28		53.3922	5.01602		
+VRC22.01	gp120 V3 // V3 glycan (V3g)		N170		Longo2016(27654288) 		K	208		79.9232	2.32598		
+VRC23	gp120 CD4bs	4J6R(VRC23 in complex with HIV-1 gp120)	127/C		Georgiev2013(23661761) 		K	181		9.7537	9.06124		
+VRC23b	gp120 CD4bs		127/C		Georgiev2013(23661761) 		K	25		2.36696	10.0325		
+VRC24	gp120 V3 // V3 glycan (V3g)		N27		Georgiev2013(23661761) 	Mutations at the trimer apex that affect sensitivity	L	57		21.1932	14.2941		
+VRC26.01	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	4OCR(Fab CAP256-VRC26.01)	CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	191		45.7262	6.77853	CAP256-VRC26.01	
+VRC26.02	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	56		24.9844	17.091	CAP256-VRC26.02	
+VRC26.03	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	4OD1(Fab CAP256-VRC26.03)	CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	203		5.92568	51.1265	CAP256-VRC26.03	
+VRC26.04	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	4ORG(Fab CAP256-VRC26.04)	CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	56		11.491	30.2338	CAP256-VRC26.04	
+VRC26.05	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	56		14.6264	37.7645	CAP256-VRC26.05	
+VRC26.06	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	4OCW(Fab CAP256-VRC26.06)	CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	206		52.2653	6.36854	CAP256-VRC26.06	
+VRC26.07	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	4OD3(Fab CAP256-VRC26.07, a potent V1V2-directed HIV-1 neutralizing antibody)	CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	56		42.7516	11.2896	CAP256-VRC26.07	
+VRC26.08	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites;hypervariable loop characteristic correlations with bNAb sensitivity;Mutations at the trimer apex that affect sensitivity;V2 Signature Analysis Summary	L	416		0.67925	146.319	CAP256-VRC26.08	
+VRC26.09	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites;Disulfide bond introduced in V1V2 affects binding and neutralization;VRC26.09 escape mutations	L	217		2.13866	98.1991	CAP256-09, CAP256.09, CAP256-VRC26.09	
+VRC26.10	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	4OCS(Fab CAP256-VRC26.10)	CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	56		19.9435	18.0649	CAP256-VRC26.10	
+VRC26.11	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	56		21.0456	16.7775	CAP256-VRC26.11	
+VRC26.12	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2014(24590074) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	56		55.1423	6.21408	CAP256-VRC26.12	
+VRC26.13	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		57.3671	6.91884	CAP256-VRC26.13	
+VRC26.14	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		21.2703	21.9103	CAP256-VRC26.14	
+VRC26.15	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		17.7778	18.5014	CAP256-VRC26.15	
+VRC26.16	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		19.4692	21.7843	CAP256-VRC26.16	
+VRC26.17	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		14.2809	29.361	CAP256-VRC26.17	
+VRC26.18	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		21.2526	18.578	CAP256-VRC26.18	
+VRC26.19	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		6.25411	30.6226	CAP256-VRC26.19	
+VRC26.20	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites;Selects for breadth-driven Abs in CAP256 lineages	L	48		92.4725	1.71003	CAP256-VRC26.20	
+VRC26.21	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		38.5418	15.406	CAP256-VRC26.21	
+VRC26.22	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		3.40475	67.4206	CAP256-VRC26.22	
+VRC26.23	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		56.2467	7.82527	CAP256-VRC26.23	
+VRC26.24	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	48		63.1294	5.52389	CAP256-VRC26.24	
+VRC26.25	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure	6VTT(CAP256-VRC26.25 Fab bound to HIV-1 Env trimer CAP256.wk34.c80 SOSIP.RnS2);5DT1(Fab CAP256-VRC26.25)	CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites;hypervariable loop characteristic correlations with bNAb sensitivity;L184F escapes V2-targeting bnAbs;V2 Signature Analysis Summary;VRC26.25 contacts;VRC26.25 neutralization associated sites	L	464		0.088676	227.135	CAP256-VRC26.25	
+VRC26.25 D99E	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.028692	48.6146		
+VRC26.25 D99E/E100bV	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.021264	33.6076		
+VRC26.25 D99E/E100bV/K100sR	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.016252	29.2692		
+VRC26.25 D99E/K100sR	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.024566	39.1178		
+VRC26.25 E100bV	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.020886	38.8285		
+VRC26.25 E100bV/K100sR	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.015004	28.5054		
+VRC26.25 E100bV/K100sR/L:S95bD	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.010432	44.5503		
+VRC26.25 E100bV/Q100nE/K100sR	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.0057805	37.8161		
+VRC26.25.K100mA	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Zhang2022(36284200) 		L	208		0.36168	154.443	CAP256-VRC26.25.K100mA	
+VRC26.25 K100sR	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.026497	38.644		
+VRC26.25 R97G/D99V/E100bV	gp120 V2 // V2 glycan(V2g) // V2 apex		CAP256	VRC26	Yin2021(34261793) 		L	16		0.019888	39.5049		
+VRC26.26	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites;hypervariable loop characteristic correlations with bNAb sensitivity;V2 Signature Analysis Summary	L	248		1.28959	87.6356	CAP256-VRC26.26	
+VRC26.27	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	204		0.78118	138.474	CAP256-VRC26.27	
+VRC26.28	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		2.56895	82.5635	CAP256-VRC26.28	
+VRC26.29	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		2.81206	69.3584	CAP256-VRC26.29	
+VRC26.30	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		10.0708	41.409	CAP256-VRC26.30	
+VRC26.31	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		21.3807	27.306	CAP256-VRC26.31	
+VRC26.32	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		24.7511	20.5688	CAP256-VRC26.32	
+VRC26.33	gp120 V2 // V2 glycan(V2g) // V2 apex;quaternary structure		CAP256	VRC26	Doria-Rose2016(26468542) 	CAP256-VRC26 lineage epitope;CAP256-VRC26 lineage escape mutations;CAP256-VRC26 lineage neutralization-associated sites	L	53		23.192	20.9109	CAP256-VRC26.33	
+VRC27	gp120 CD4bs	4YDI(Z258-VRC27.01 in complex with HIV-1 gp120 from clade A strain Q23.17)	Z258		Zhou2015(26004070) 	VRC27 alanine scanning;VRC27 contacts	K	179		1.08003	21.5606	VRC27.01, Z258-VRC27.01	
+VRC28.01	gp120 V3 // V3 glycan (V3g)		N170		Longo2016(27654288) 		K	28		52.3467	6.37489		
+VRC29.01	gp120 V3 // V3 glycan (V3g)		N170	VRC29	Longo2016(27654288) 		K	28		35.8774	10.0761		
+VRC29.02	gp120 V3 // V3 glycan (V3g)		N170	VRC29	Longo2016(27654288) 		K	28		23.9047	11.3537		
+VRC29.03	gp120 V3 // V3 glycan (V3g)		N170	VRC29	Longo2016(27654288) 		K	208		28.0365	9.06713		
+VRC29.04	gp120 V3 // V3 glycan (V3g)		N170	VRC29	Longo2016(27654288) 		K	28		16.199	14.5892		
+VRC34.01	fusion peptide // near gp41-gp120 interface	5I8C(BG505 Fusion Peptide in Complex with VRC34.01 Fab);5I8H(BG505 SOSIP.664 Prefusion Env Trimer in Complex with PGT122 Fab and VRC34.01 Fab);5I8E(VRC34.01 Fab)	N123	VRC34	Kong2016a(27174988) 	Mutation affects neutralization by VRC34;Mutation reduces binding/neutralization of fusion peptide mAbs;Mutations affecting binding of VRC34.01 to fusion peptide epitope;VRC34.01 contacts;VRC34.01 mutations affect neutralization	K	219		4.59743	23.1548	N123-VRC34.01	
+VRC34.02	fusion peptide // near gp41-gp120 interface		N123	VRC34	Kong2016a(27174988) 		K	22		1.87277	14.5418	N123-VRC34.02	
+VRC34.03	fusion peptide // near gp41-gp120 interface		N123	VRC34	Kong2016a(27174988) 		K	22		14.9115	11.9376	N123-VRC34.03	
+VRC34.04	fusion peptide // near gp41-gp120 interface		N123	VRC34	Kong2016a(27174988) 		K	22		16.5412	14.9627	N123-VRC34.04	
+VRC34.05	fusion peptide // near gp41-gp120 interface		N123	VRC34	Kong2016a(27174988) 	VRC34.05 contacts	K	209		98.6298	1.21957	N123-VRC34.05	
+VRC34.06	fusion peptide // near gp41-gp120 interface		N123	VRC34	Kong2016a(27174988) 		K	22		77.8393	3.15201	N123-VRC34.06	
+VRC34.07	fusion peptide // near gp41-gp120 interface		N123	VRC34	Kong2016a(27174988) 		K	22		100	1	N123-VRC34.07	
+VRC34-pI1	fusion peptide // near gp41-gp120 interface		N123	VRC34	Shen2020(32130953) 		K	11				VRC34.01-pI1	Unpublished VRC34-pI1 info via personal communication (C. Shen) but isolated as described in Shen2020 (PMID 32130953)
+VRC34-pI2	fusion peptide // near gp41-gp120 interface		N123	VRC34	Shen2020(32130953) 		K	11				VRC34.01-pI2	Unpublished VRC34-pI2 info via personal communication (C. Shen) but isolated as described in Shen2020 (PMID 32130953)
+VRC34-pI2'	fusion peptide // near gp41-gp120 interface		N123	VRC34	Shen2020(32130953) 		K	11				VRC34.01-pI2'	Unpublished VRC34-pI2’ info via personal communication (C. Shen) but isolated as described in Shen2020 (PMID 32130953)
+VRC34-pI2 H33P	fusion peptide // near gp41-gp120 interface		N123	VRC34	Shen2020(32130953) 		K	11				VRC34.01-pI2 H33P	Unpublished info via personal communication (C. Shen) but related to Shen2020 (PMID 32130953)
+VRC34-pI3	fusion peptide // near gp41-gp120 interface	6UCE(VRC34-pI3 with HIV fusion peptide residues 512-519)	N123	VRC34	Shen2020(32130953) 		K	209		3.92824	22.7977	VRC34.01-pI3	
+VRC34-pI3'	fusion peptide // near gp41-gp120 interface		N123	VRC34	Shen2020(32130953) 		K	11				VRC34.01-pI3'	Unpublished VRC34-pI3’ info via personal communication (C. Shen) but isolated as described in Shen2020 (PMID 32130953)
+VRC34-pI3HCpI2LC	fusion peptide // near gp41-gp120 interface		N123	VRC34	Shen2020(32130953) 		K	11				VRC34.01-pI3HCpI2LC	Chimera of pI3 HC and pI2 LC. Unpublished VRC34-pI2 info via personal communication (C. Shen) related to Shen2020 (PMID 32130953)
+VRC34-pI4	fusion peptide // near gp41-gp120 interface	6UCF(VRC34-pI4 with HIV fusion peptide residues 512-519)	N123	VRC34	Shen2020(32130953) 		K	209		6.00755	21.0346	VRC34.01-pI4	
+VRC34-UCA	fusion peptide // near gp41-gp120 interface		N123	VRC34	Shen2020(32130953) 		K	208		100	1	VRC34.01-UCA	Unpublished VRC34-UCA info via personal communication (C. Shen) but isolated as described in Shen2020 (PMID 32130953)
+VRC34YD.01	fusion peptide // near gp41-gp120 interface		N123	VRC34	Wang2018(29309060) 			22		3.12972	10.735		
+VRC34YD.02	fusion peptide // near gp41-gp120 interface		N123	VRC34	Wang2018(29309060) 			22		11.6997	9.14855		
+VRC34YD.03	fusion peptide // near gp41-gp120 interface		N123	VRC34	Wang2018(29309060) 			22		5.57011	13.5579		
+VRC34YD.04	fusion peptide // near gp41-gp120 interface		N123	VRC34	Wang2018(29309060) 			22		4.45401	11.4055		
+VRC34YD.05	fusion peptide // near gp41-gp120 interface		N123	VRC34	Wang2018(29309060) 			22		7.22189	12.5243		
+VRC34YD.06	fusion peptide // near gp41-gp120 interface		N123	VRC34	Wang2018(29309060) 			22		4.8491	15.4402		
+VRC34YD.07	fusion peptide // near gp41-gp120 interface		N123	VRC34	Wang2018(29309060) 			22		5.76716	12.7636		
+VRC38.01	gp120 V2 // V2 glycan(V2g) // V2 apex	5EWI(Fab VRC38.01);5VGJ(Fab VRC38.01 bound to a scaffolded WITO V1V2 domain)	N90	VRC38	Cale2017(28514685) 	Mutation affects neutralization by V1V2 glycan mAbs;Mutations at the trimer apex that affect sensitivity;VRC38.01 contacts	K	246		18.6071	21.9897	N90-VRC38.01, VRC38	
+VRC38.02	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		41.1956	11.3714	N90-VRC38.02	
+VRC38.03	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		46.7849	6.35166	N90-VRC38.03	
+VRC38.04	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		37.8086	11.7498	N90-VRC38.04	
+VRC38.05	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		79.3197	3.55723	N90-VRC38.05	
+VRC38.06	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		11.7522	28.1813	N90-VRC38.06	
+VRC38.07	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		12.3217	29.2906	N90-VRC38.07	
+VRC38.08	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	30		25.6964	10.557	N90-VRC38.08	
+VRC38.09	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		18.8304	14.5252	N90-VRC38.09	
+VRC38.10	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		34.5202	8.85779	N90-VRC38.10	
+VRC38.11	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 		K	31		23.958	13.3844	N90-VRC38.11	
+VRC38.12	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 			31		40.5342	8.4795	N90-VRC38.12	VRC38.12 is an orphan heavy chain; neutralization results were obtained by expressing with the light chain of VRC38.01.
+VRC38.13	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 			31		18.4321	20.3122	N90-VRC38.13	VRC38.13 is an orphan heavy chain; neutralization results were obtained by expressing with the light chain of VRC38.01.
+VRC38.14	gp120 V2 // V2 glycan(V2g) // V2 apex		N90	VRC38	Cale2017(28514685) 			31		23.4647	14.1259	N90-VRC38.14	VRC38.14 is an orphan heavy chain; neutralization results were obtained by expressing with the light chain of VRC38.01.
+VRC41.01	gp120 V3 // V3 glycan (V3g)		CH765	VRC41	Alam2017(28298421) 	Mutation affects neutralization of V3 mAbs	K	127		4.93196	22.1047	CH765-VRC41.01	
+VRC41.02	gp120 V3 // V3 glycan (V3g)		CH765	VRC41	Alam2017(28298421) 	Mutation affects neutralization of V3 mAbs	K	34		12.5647	7.41578	CH765-VRC41.02	
+VRC42.01	gp41 MPER (membrane proximal external region)		40512		Krebs2019(30876875) 		K	0				RV217-VRC42.01	
+VRC-CH30	gp120 CD4bs		CH0219	VRC-CH31	Wu2011(21835983) 		K	20		0.43176	18.5182	CH30	
+VRC-CH31	gp120 CD4bs	4LSP(VRC-CH31 complexed with gp120 (93TH057));4LSQ(VRC-CH31 complexed with gp120 (93TH057/3514 chimera));4LSR(VRC-CH31 complexed with gp120 (93TH057/KER2008 chimera))	CH0219	VRC-CH31	Wu2011(21835983) 	Signature Analysis Summary;VRC-CH31 signature predictions	K	421		1.06961	16.5289	CH31, VRC-CH31 d0219	
+VRC-CH32	gp120 CD4bs		CH0219	VRC-CH31	Wu2011(21835983) 		K	20		0.88113	19.1793	CH32	
+VRC-CH33	gp120 CD4bs		CH0219	VRC-CH31	Wu2011(21835983) 		K	20		0.44584	16.2125	CH33	
+VRC-CH34	gp120 CD4bs		CH0219	VRC-CH31	Wu2011(21835983) 		K	20		0.82068	15.5751	CH34	
+VRC-PG04	gp120 CD4bs	7RSO(AMC016 SOSIP.v4.2 in complex with PGV04 Fab);7RSN(AMC018 SOSIP.v4.2 in complex with PGV04 Fab);3J5M(BG505 Env trimer with 3 PGV04 Fabs);6CRQ(Glutaraldehyde-treated BG505 SOSIP.664 in complex with PGV04 Fab);4I3S(gp120 complexed with VRC-PG04 space group P21);4I3R(gp120 complexed with VRC-PG04 space group P3221);EMD-7107(PC64M4c054 SOSIP in complex with PGV04 Fab);EMD-8302(SOSIP trimer from patient AMC011 in complex with Fab from IgG PGV04);3SE9(VRC-PG04 complexed with gp120)	Donor 74	VRC-PG04 	Wu2011(21835983) 	Mutation affects PGV04, b12, VRC01, CD4-IgG neutralization;Mutation decreases binding to CD4BS mAbs;Signature Analysis Summary;VRC-PG04 alanine scanning;VRC-PG04 contacts;VRC-PG04 signature predictions	K	448	Yes	0.81585	15.4112	PG-04, PG04, PGV04, VRC04, VRC-PG-04, VRC-PG04 d74	
+VRC-PG04b	gp120 CD4bs		Donor 74	VRC-PG04 	Wu2011(21835983) 	VRC-PG04b signature predictions	K	178		1.38148	22.7156	PG04b	
+VRC-PG05	gp120 silent face	6BF4(HIV-1 Clade AE Strain CNE55 gp120 Core in Complex with VRC-PG05)	Donor 74		Zhou2018(29548671) 	Signature Analysis Summary;VRC-PG05 contacts;VRC-PG05 sensitivity and escape	K	272		22.7512	10.7914	PG-05, PG05, VRC-PG-05	
+VRC-PG19	gp120 V2-CD4bs		IAVI 23		Zhou2013a(23911655) 	Mutations allowing binding of germline Abs	L	20		1.60753	16.0011	PG19, VRC-PG19 d23	
+VRC-PG20	gp120 CD4bs	4LSU(VRC-PG20 in complex with HIV-1 clade A/E 93TH057 gp120)	IAVI 23		Zhou2013a(23911655) 	Altered glycosylation affects neutralization by CD4BS bnAbs;Mutations allowing binding of germline Abs;Neutralization of Env 426c and its glycan-deleted mutant by CD4BS Abs	L	183		0.69508	24.9562	VRC20, VRC-PG20 d23	
+X5	gp120 CD4i	1RHH(Fab X5);2B4C(gp120 core protein containing V3 complexed with CD4 and the X5 antibody)	FDA2		Moulard2002(11997472) 		K	21	Yes			Fab X5	
+Y498	gp120 CD4bs		XJ1981		Sun2017(28968970) 	Mutation decreases binding of Y498	K	70		50.8973	5.24214		
+Z13	gp41 MPER (membrane proximal external region)		FDA2		Zwick2001b(11602729) 	Z13e1 contacts	K	0					
+Z13e1	gp41 MPER (membrane proximal external region)	3FN0(Fab Z13e1 in complex with a 12-residue peptide containing the Z13e1 epitope on gp41);3Q1S(Z13e1 in complex with epitope display protein)	FDA2		Nelson2007(17287272) 	Mutation affects Z13e1 binding;Q563R affects binding and neutralization of MPER mAbs;Signature Analysis Summary;Z13e1 contacts	K	125		76.4903	1.89348		
