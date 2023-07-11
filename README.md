@@ -1,7 +1,7 @@
 capstone-project
 ==============================
 
-data science capstone projecy
+Data Science Capstone Project
 
 Project Organization
 ------------
